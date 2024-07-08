@@ -1,4 +1,4 @@
-var posts=["2024/06/25/My-New-Post/","2024/06/24/hello-world/","2024/07/06/分享几个伪装上架的iOS追剧软件/","2024/06/25/抖音｜批量邀请达人工具/"];function toRandomPost(){
+var posts=["2024/06/24/hello-world/","2024/07/06/分享几个伪装上架的iOS追剧软件/","2024/07/07/国漫人物/","2024/06/25/完美世界/","2024/06/25/抖音｜批量邀请达人工具/","2024/07/07/斗破苍穹/","2024/07/07/游戏角色/","2024/07/07/随机壁纸1/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };var friend_link_list=[];
     var refreshNum = 1;
