@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-07-09T03:08:31.155Z</updated>
+  <updated>2024-07-09T11:27:09.448Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,20 +21,20 @@
     <link href="http://example.com/2024/07/09/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%85%A5RSS/"/>
     <id>http://example.com/2024/07/09/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%85%A5RSS/</id>
     <published>2024-07-09T03:01:58.000Z</published>
-    <updated>2024-07-09T03:08:31.155Z</updated>
+    <updated>2024-07-09T11:27:09.448Z</updated>
     
-    <content type="html"><![CDATA[<p>开启博客底部RSS选项</p><p>运行代码: sudo npm install –save hexo-generator-feed</p><p>_config.yml文件插入代码</p><h1 id="RSS-代码"><a href="#RSS-代码" class="headerlink" title="RSS 代码"></a>RSS 代码</h1><p>plugins:<br>  hexo-generator-feed</p><p>_config.anzhiyu.yml 开启注释<br><img src="/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%85%A5RSS_files/1.jpg"></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="开启博客底部RSS选项"><a href="#开启博客底部RSS选项" class="headerlink" title="开启博客底部RSS选项"></a>开启博客底部RSS选项</h3><p>Hexo文件在终端打开 并运行代码 安装 feed插件</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo npm install --save hexo-generator-feed</span><br></pre></td></tr></table></figure><ul><li><code>_config.yml</code>文件插入代码</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># RSS 代码</span></span><br><span class="line">plugins:</span><br><span class="line">  hexo-generator-feed</span><br></pre></td></tr></table></figure><ul><li><code>_config.anzhiyu.yml</code> 开启注释</li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;开启博客底部RSS选项&lt;/p&gt;
-&lt;p&gt;运行代码: sudo npm install –save hexo-generator-feed&lt;/p&gt;
-&lt;p&gt;_config.yml文件插入代码&lt;/p&gt;
-&lt;h1 id=&quot;RSS-代码&quot;&gt;&lt;a href=&quot;#RSS-代码&quot; class=</summary>
+    <summary type="html">&lt;h3 id=&quot;开启博客底部RSS选项&quot;&gt;&lt;a href=&quot;#开启博客底部RSS选项&quot; class=&quot;headerlink&quot; title=&quot;开启博客底部RSS选项&quot;&gt;&lt;/a&gt;开启博客底部RSS选项&lt;/h3&gt;&lt;p&gt;Hexo文件在终端打开 并运行代码 安装 feed插件&lt;/p&gt;
+&lt;f</summary>
       
     
     
+    
+    <category term="Hexo" scheme="http://example.com/categories/Hexo/"/>
     
     
   </entry>
