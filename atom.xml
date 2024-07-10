@@ -3,11 +3,11 @@
   <title>Hexo_Nan Ge</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://git.nangesoe.cn/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2024-07-09T11:27:09.448Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://git.nangesoe.cn/"/>
+  <updated>2024-07-10T01:24:41.746Z</updated>
+  <id>http://git.nangesoe.cn/</id>
   
   <author>
     <name>Nan Ge</name>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>Hexo 开启博客订阅源 插入RSS</title>
-    <link href="http://example.com/2024/07/09/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%85%A5RSS/"/>
-    <id>http://example.com/2024/07/09/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%85%A5RSS/</id>
+    <link href="http://git.nangesoe.cn/2024/07/09/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%85%A5RSS/"/>
+    <id>http://git.nangesoe.cn/2024/07/09/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%85%A5RSS/</id>
     <published>2024-07-09T03:01:58.000Z</published>
-    <updated>2024-07-09T11:27:09.448Z</updated>
+    <updated>2024-07-10T01:24:41.746Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="开启博客底部RSS选项"><a href="#开启博客底部RSS选项" class="headerlink" title="开启博客底部RSS选项"></a>开启博客底部RSS选项</h3><p>Hexo文件在终端打开 并运行代码 安装 feed插件</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo npm install --save hexo-generator-feed</span><br></pre></td></tr></table></figure><ul><li><code>_config.yml</code>文件插入代码</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># RSS 代码</span></span><br><span class="line">plugins:</span><br><span class="line">  hexo-generator-feed</span><br></pre></td></tr></table></figure><ul><li><code>_config.anzhiyu.yml</code> 开启注释</li></ul>]]></content>
+    <content type="html"><![CDATA[<h3 id="开启博客底部RSS选项"><a href="#开启博客底部RSS选项" class="headerlink" title="开启博客底部RSS选项"></a>开启博客底部RSS选项</h3><p>Hexo文件在终端打开 并运行代码 安装 feed插件</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo npm install --save hexo-generator-feed</span><br></pre></td></tr></table></figure><ul><li><code>_config.yml</code>文件插入代码</li></ul><p>16行处修改为自己的域名链接</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Extensions</span></span><br><span class="line">plugins:</span><br><span class="line">    hexo-generator-feed</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># RSS订阅功能</span></span><br><span class="line">feed:</span><br><span class="line">    <span class="built_in">type</span>: atom</span><br><span class="line">    path: atom.xml</span><br><span class="line">    <span class="built_in">limit</span>: <span class="literal">false</span></span><br></pre></td></tr></table></figure><p>运行 hexo g  即可生成一个在 public 文件夹中的 atom.xml文件,<br>运行 hexo d  上传到GitHub 中即可~</p><p>https:&#x2F;&#x2F;你的域名&#x2F;atom.xml (即可查看rss)</p><ul><li><code>_config.anzhiyu.yml</code> 开启注释</li></ul>]]></content>
     
     
       
@@ -34,15 +34,15 @@
     
     
     
-    <category term="Hexo" scheme="http://example.com/categories/Hexo/"/>
+    <category term="Hexo" scheme="http://git.nangesoe.cn/categories/Hexo/"/>
     
     
   </entry>
   
   <entry>
     <title>国漫人物</title>
-    <link href="http://example.com/2024/07/07/%E5%9B%BD%E6%BC%AB%E4%BA%BA%E7%89%A9/"/>
-    <id>http://example.com/2024/07/07/%E5%9B%BD%E6%BC%AB%E4%BA%BA%E7%89%A9/</id>
+    <link href="http://git.nangesoe.cn/2024/07/07/%E5%9B%BD%E6%BC%AB%E4%BA%BA%E7%89%A9/"/>
+    <id>http://git.nangesoe.cn/2024/07/07/%E5%9B%BD%E6%BC%AB%E4%BA%BA%E7%89%A9/</id>
     <published>2024-07-07T11:13:18.000Z</published>
     <updated>2024-07-07T11:15:59.689Z</updated>
     
@@ -61,8 +61,8 @@
   
   <entry>
     <title>斗破苍穹</title>
-    <link href="http://example.com/2024/07/07/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/"/>
-    <id>http://example.com/2024/07/07/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/</id>
+    <link href="http://git.nangesoe.cn/2024/07/07/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/"/>
+    <id>http://git.nangesoe.cn/2024/07/07/%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9/</id>
     <published>2024-07-07T11:09:04.000Z</published>
     <updated>2024-07-07T11:12:19.118Z</updated>
     
@@ -81,8 +81,8 @@
   
   <entry>
     <title>游戏角色</title>
-    <link href="http://example.com/2024/07/07/%E6%B8%B8%E6%88%8F%E8%A7%92%E8%89%B2/"/>
-    <id>http://example.com/2024/07/07/%E6%B8%B8%E6%88%8F%E8%A7%92%E8%89%B2/</id>
+    <link href="http://git.nangesoe.cn/2024/07/07/%E6%B8%B8%E6%88%8F%E8%A7%92%E8%89%B2/"/>
+    <id>http://git.nangesoe.cn/2024/07/07/%E6%B8%B8%E6%88%8F%E8%A7%92%E8%89%B2/</id>
     <published>2024-07-07T11:04:28.000Z</published>
     <updated>2024-07-07T11:08:26.408Z</updated>
     
@@ -101,8 +101,8 @@
   
   <entry>
     <title>随机壁纸1</title>
-    <link href="http://example.com/2024/07/07/%E9%9A%8F%E6%9C%BA%E5%A3%81%E7%BA%B81/"/>
-    <id>http://example.com/2024/07/07/%E9%9A%8F%E6%9C%BA%E5%A3%81%E7%BA%B81/</id>
+    <link href="http://git.nangesoe.cn/2024/07/07/%E9%9A%8F%E6%9C%BA%E5%A3%81%E7%BA%B81/"/>
+    <id>http://git.nangesoe.cn/2024/07/07/%E9%9A%8F%E6%9C%BA%E5%A3%81%E7%BA%B81/</id>
     <published>2024-07-07T10:52:54.000Z</published>
     <updated>2024-07-07T11:05:55.227Z</updated>
     
@@ -121,8 +121,8 @@
   
   <entry>
     <title>追剧软件｜iOS伪装上架</title>
-    <link href="http://example.com/2024/07/06/%E5%88%86%E4%BA%AB%E5%87%A0%E4%B8%AA%E4%BC%AA%E8%A3%85%E4%B8%8A%E6%9E%B6%E7%9A%84iOS%E8%BF%BD%E5%89%A7%E8%BD%AF%E4%BB%B6/"/>
-    <id>http://example.com/2024/07/06/%E5%88%86%E4%BA%AB%E5%87%A0%E4%B8%AA%E4%BC%AA%E8%A3%85%E4%B8%8A%E6%9E%B6%E7%9A%84iOS%E8%BF%BD%E5%89%A7%E8%BD%AF%E4%BB%B6/</id>
+    <link href="http://git.nangesoe.cn/2024/07/06/%E5%88%86%E4%BA%AB%E5%87%A0%E4%B8%AA%E4%BC%AA%E8%A3%85%E4%B8%8A%E6%9E%B6%E7%9A%84iOS%E8%BF%BD%E5%89%A7%E8%BD%AF%E4%BB%B6/"/>
+    <id>http://git.nangesoe.cn/2024/07/06/%E5%88%86%E4%BA%AB%E5%87%A0%E4%B8%AA%E4%BC%AA%E8%A3%85%E4%B8%8A%E6%9E%B6%E7%9A%84iOS%E8%BF%BD%E5%89%A7%E8%BD%AF%E4%BB%B6/</id>
     <published>2024-07-06T02:51:16.000Z</published>
     <updated>2024-07-08T16:31:17.343Z</updated>
     
@@ -137,17 +137,17 @@
     
     
     
-    <category term="iOS" scheme="http://example.com/categories/iOS/"/>
+    <category term="iOS" scheme="http://git.nangesoe.cn/categories/iOS/"/>
     
     
-    <category term="软件" scheme="http://example.com/tags/%E8%BD%AF%E4%BB%B6/"/>
+    <category term="软件" scheme="http://git.nangesoe.cn/tags/%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
   <entry>
     <title>抖音｜批量邀请达人工具</title>
-    <link href="http://example.com/2024/06/25/%E6%8A%96%E9%9F%B3%EF%BD%9C%E6%89%B9%E9%87%8F%E9%82%80%E8%AF%B7%E8%BE%BE%E4%BA%BA%E5%B7%A5%E5%85%B7/"/>
-    <id>http://example.com/2024/06/25/%E6%8A%96%E9%9F%B3%EF%BD%9C%E6%89%B9%E9%87%8F%E9%82%80%E8%AF%B7%E8%BE%BE%E4%BA%BA%E5%B7%A5%E5%85%B7/</id>
+    <link href="http://git.nangesoe.cn/2024/06/25/%E6%8A%96%E9%9F%B3%EF%BD%9C%E6%89%B9%E9%87%8F%E9%82%80%E8%AF%B7%E8%BE%BE%E4%BA%BA%E5%B7%A5%E5%85%B7/"/>
+    <id>http://git.nangesoe.cn/2024/06/25/%E6%8A%96%E9%9F%B3%EF%BD%9C%E6%89%B9%E9%87%8F%E9%82%80%E8%AF%B7%E8%BE%BE%E4%BA%BA%E5%B7%A5%E5%85%B7/</id>
     <published>2024-06-25T07:57:05.000Z</published>
     <updated>2024-07-06T16:55:59.618Z</updated>
     
@@ -162,17 +162,17 @@
     
     
     
-    <category term="抖音" scheme="http://example.com/categories/%E6%8A%96%E9%9F%B3/"/>
+    <category term="抖音" scheme="http://git.nangesoe.cn/categories/%E6%8A%96%E9%9F%B3/"/>
     
     
-    <category term="软件" scheme="http://example.com/tags/%E8%BD%AF%E4%BB%B6/"/>
+    <category term="软件" scheme="http://git.nangesoe.cn/tags/%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
   <entry>
     <title>完美世界</title>
-    <link href="http://example.com/2024/06/25/%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C/"/>
-    <id>http://example.com/2024/06/25/%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C/</id>
+    <link href="http://git.nangesoe.cn/2024/06/25/%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C/"/>
+    <id>http://git.nangesoe.cn/2024/06/25/%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C/</id>
     <published>2024-06-25T07:52:26.000Z</published>
     <updated>2024-07-07T11:06:01.710Z</updated>
     
@@ -191,8 +191,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/06/24/hello-world/"/>
-    <id>http://example.com/2024/06/24/hello-world/</id>
+    <link href="http://git.nangesoe.cn/2024/06/24/hello-world/"/>
+    <id>http://git.nangesoe.cn/2024/06/24/hello-world/</id>
     <published>2024-06-24T11:56:50.959Z</published>
     <updated>2024-06-24T11:56:50.959Z</updated>
     
