@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://git.nangesoe.cn/2479.html</loc>
+    <loc>http://git.nangesoe.cn/24715.html</loc>
     
     <lastmod>2024-07-16</lastmod>
     
@@ -11,7 +11,16 @@
   </url>
   
   <url>
-    <loc>http://git.nangesoe.cn/24715.html</loc>
+    <loc>http://git.nangesoe.cn/2024/07/09/%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%85%A5RSS/</loc>
+    
+    <lastmod>2024-07-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://git.nangesoe.cn/2024/07/13/2024%E8%BF%85%E9%9B%B7%E4%B8%8D%E9%99%90%E9%80%9F%E7%BB%BF%E8%89%B2%E6%AC%BE%E5%B7%A5%E5%85%B7/</loc>
     
     <lastmod>2024-07-16</lastmod>
     
@@ -75,15 +84,6 @@
   
   <url>
     <loc>http://git.nangesoe.cn/2024/07/11/Hexo%20%E5%8D%9A%E5%AE%A2%E9%85%8D%E7%BD%AE%E8%AF%84%E8%AE%BA%20%E6%8F%92%E4%BB%B6Twikoo%20%E3%80%8C%E8%AE%B0%E5%BD%95%E3%80%8D/</loc>
-    
-    <lastmod>2024-07-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://git.nangesoe.cn/2024/07/13/2024%E8%BF%85%E9%9B%B7%E4%B8%8D%E9%99%90%E9%80%9F%E7%BB%BF%E8%89%B2%E6%AC%BE%E5%B7%A5%E5%85%B7/</loc>
     
     <lastmod>2024-07-16</lastmod>
     
@@ -282,13 +282,6 @@
   </url>
   
   <url>
-    <loc>http://git.nangesoe.cn/categories/iOS/</loc>
-    <lastmod>2024-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://git.nangesoe.cn/categories/%E6%8A%96%E9%9F%B3/</loc>
     <lastmod>2024-07-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -296,7 +289,7 @@
   </url>
   
   <url>
-    <loc>http://git.nangesoe.cn/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <loc>http://git.nangesoe.cn/categories/iOS/</loc>
     <lastmod>2024-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -304,6 +297,13 @@
   
   <url>
     <loc>http://git.nangesoe.cn/categories/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98/</loc>
+    <lastmod>2024-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://git.nangesoe.cn/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
     <lastmod>2024-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
