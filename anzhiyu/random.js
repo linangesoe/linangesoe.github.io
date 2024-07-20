@@ -1,4 +1,4 @@
-var posts=["posts/bb7697f2.html","posts/f3edd469.html","posts/55d3b318.html","posts/6c83c64d.html","posts/f7886a0b.html","posts/4604448b.html","posts/a3b6538b.html","posts/be6ef961.html","posts/3e30b192.html","posts/7958813b.html","posts/648f48fb.html"];function toRandomPost(){
+var posts=["posts/f3edd469.html","posts/55d3b318.html","posts/f7886a0b.html","posts/bb7697f2.html","posts/4604448b.html","posts/6c83c64d.html","posts/a3b6538b.html","posts/3e30b192.html","posts/7958813b.html","posts/be6ef961.html","posts/648f48fb.html"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };var friend_link_list=[];
     var refreshNum = 1;
