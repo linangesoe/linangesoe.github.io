@@ -1,4 +1,4 @@
-var posts=["2024/07/13/5acc0ac30dde.html","2024/07/09/7a01f3dcb6d7.html","2024/07/13/4539cd353530.html","2024/07/17/70a1c0a5f967.html","2024/07/19/934a1b255738.html","2024/07/12/c36c0c3f3faf.html","2024/06/25/cd2f92b137c2.html","2024/07/16/2fae3e25bfad.html","2024/07/15/d2084af88c1b.html","2024/07/06/c9f794dbb85c.html","2024/07/07/c150712f864a.html"];function toRandomPost(){
+var posts=["bb7697f2.html","f3edd469.html","55d3b318.html","6c83c64d.html","f7886a0b.html","4604448b.html","a3b6538b.html","be6ef961.html","3e30b192.html","7958813b.html","648f48fb.html"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };var friend_link_list=[];
     var refreshNum = 1;
