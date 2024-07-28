@@ -6,7 +6,7 @@
   <link href="http://git.nangesoe.cn/atom.xml" rel="self"/>
   
   <link href="http://git.nangesoe.cn/"/>
-  <updated>2024-07-25T11:53:21.560Z</updated>
+  <updated>2024-07-28T10:27:23.529Z</updated>
   <id>http://git.nangesoe.cn/</id>
   
   <author>
@@ -17,65 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>测试文章</title>
-    <link href="http://git.nangesoe.cn/posts/7a6a6b5a.html"/>
-    <id>http://git.nangesoe.cn/posts/7a6a6b5a.html</id>
-    <published>2024-07-23T08:32:38.000Z</published>
-    <updated>2024-07-25T11:53:21.560Z</updated>
-    
-    <content type="html"><![CDATA[<hr><ul><li><code>票圈视频</code>直链,画质压缩,时间估计是永久~测试</li></ul><meta name=referrer content=no-referrer><video width="100%" height="100%" src="https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20240723/16160775RFNoqiSEcIPWZZyN0q.mp4" controls="controls" webkit-playsinline="true"></video><div class="timeline green"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2024</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>7月</p></div></div><div class='timeline-item-content'><p><a href="https://github.com/shiyutim/tickets">抢票软件（大麦）</a><br>大麦、大麦网 演唱会抢票软件，一个基于 tauri + rust + vue 调用接口的抢票软件。</p></div></div></div>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;票圈视频&lt;/code&gt;直链,画质压缩,时间估计是永久~测试&lt;/li&gt;
-&lt;/ul&gt;
-&lt;meta name=referrer content=no-referrer&gt;
-&lt;video width=&quot;100%&quot; height=&quot;100%&quot; src=</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>「某度网盘」网页版|在线解锁高清顶级画质</title>
-    <link href="http://git.nangesoe.cn/posts/fa4db3ff.html"/>
-    <id>http://git.nangesoe.cn/posts/fa4db3ff.html</id>
-    <published>2024-07-23T05:57:05.000Z</published>
-    <updated>2024-07-23T06:19:32.239Z</updated>
-    
-    <content type="html"><![CDATA[<p><code>「某度网盘」网页版|在线解锁高清顶级画质</code></p><p>此插件的实现主要依赖于某度网盘“网页端”，通过插件可实现最高画质播放，以及倍速播放，<code>亲测可用</code></p><p>对于看教程或者是非长期使用的用户来说，十分友好~</p><p><code>解锁功能:</code> 1080P高清画质+倍速播放+字幕功能。</p><p>破姐的Svip身份，登录后一般情况下应该就是Svip了，可以用倍速、字幕等功能</p><ul><li><code>效果图</code></li></ul><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr009.jpg" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><strong><code>获取方式:</code></strong> </p><p style="text-align: center;" align="center">    <strong><span style="font-size:16px;">扫描下方小程序,观看广告后即可 获取下载链接</span></strong></p><p style="padding: 12px;text-align:center;"  align="center">    <img src="https://lm.nangesoe.cn/nangebj/xcxlm/%E5%8D%97%E9%98%81%E8%AF%B4%EF%BC%88%E6%96%87%E7%AB%A0%EF%BC%89_7.jpg" alt="" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 20px; width: 266px;vertical-align:baseline;box-sizing:border-box;" draggable="false" width="266" data-width="266px" data-ratio="1" data-w="430"/></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;code&gt;「某度网盘」网页版|在线解锁高清顶级画质&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;此插件的实现主要依赖于某度网盘“网页端”，通过插件可实现最高画质播放，以及倍速播放，&lt;code&gt;亲测可用&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;对于看教程或者是非长期使用的用户来说，十分友好~&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="度盘插件" scheme="http://git.nangesoe.cn/categories/%E5%BA%A6%E7%9B%98%E6%8F%92%E4%BB%B6/"/>
-    
-    
-    <category term="解锁高清画质" scheme="http://git.nangesoe.cn/tags/%E8%A7%A3%E9%94%81%E9%AB%98%E6%B8%85%E7%94%BB%E8%B4%A8/"/>
-    
-  </entry>
-  
-  <entry>
     <title>「安卓软件」迅雷8.15，不限速下载，永久免费使用</title>
     <link href="http://git.nangesoe.cn/posts/a5ea1bc6.html"/>
     <id>http://git.nangesoe.cn/posts/a5ea1bc6.html</id>
     <published>2024-07-23T05:15:22.000Z</published>
-    <updated>2024-07-23T05:28:40.879Z</updated>
+    <updated>2024-07-28T10:27:23.529Z</updated>
     
-    <content type="html"><![CDATA[<p>【应用名称】<code>迅雷</code></p><p>【应用版本】<code>8.15.0.9265</code></p><p>【软件大小】<code>175m</code></p><p>【适用型号】<code>安卓</code></p><hr><ul><li>迅雷</li></ul><p>不限速下载，可登录《迅雷》是一款为用户量身打造的下载手机软件，给用户最专业的极速下载体验，还有有料视频、女神直播，只为给你提供超凡的视听效果。还能好友互动交流感情，赶紧来下载亲自体验吧！</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr008.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><strong><code>获取方式:</code></strong> </p><p style="text-align: center;" align="center">    <strong><span style="font-size:16px;">扫描下方小程序,观看广告后即可 获取下载链接</span></strong></p><p style="padding: 12px;text-align:center;"  align="center">    <img src="https://lm.nangesoe.cn/nangebj/xcxlm/%E5%8D%97%E9%98%81%E8%AF%B4%EF%BC%88%E6%96%87%E7%AB%A0%EF%BC%89_6.jpg" alt="" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 20px; width: 266px;vertical-align:baseline;box-sizing:border-box;" draggable="false" width="266" data-width="266px" data-ratio="1" data-w="430"/></p>]]></content>
+    <content type="html"><![CDATA[<p>【应用名称】<code>迅雷</code></p><p>【应用版本】<code>8.15.0.9265</code></p><p>【软件大小】<code>175m</code></p><p>【适用型号】<code>安卓</code></p><hr><ul><li>迅雷</li></ul><p>不限速下载，可登录《迅雷》是一款为用户量身打造的下载手机软件，给用户最专业的极速下载体验，还有有料视频、女神直播，只为给你提供超凡的视听效果。还能好友互动交流感情，赶紧来下载亲自体验吧！</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr008.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><strong><code>获取方式:</code></strong> </p><p style="text-align: center;" align="center">    <strong><span style="font-size:16px;">扫描下方小程序,观看广告后即可 获取下载链接</span></strong></p><p style="padding: 12px;text-align:center;"  align="center">    <img src="https://lm.nangesoe.cn/nangebj/xcxlm/%E5%8D%97%E9%98%81%E8%AF%B4%EF%BC%88%E6%96%87%E7%AB%A0%EF%BC%89_3.jpg" alt="" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 20px; width: 266px;vertical-align:baseline;box-sizing:border-box;" draggable="false" width="266" data-width="266px" data-ratio="1" data-w="430"/></p>]]></content>
     
     
       
@@ -103,9 +51,9 @@
     <link href="http://git.nangesoe.cn/posts/cbacdcf6.html"/>
     <id>http://git.nangesoe.cn/posts/cbacdcf6.html</id>
     <published>2024-07-23T04:45:46.000Z</published>
-    <updated>2024-07-23T05:10:16.328Z</updated>
+    <updated>2024-07-28T10:32:17.645Z</updated>
     
-    <content type="html"><![CDATA[<p>【软件名称】<code>水印一键去除专家</code></p><p>【软件版本】<code>2.1.3</code></p><p>【软件大小】<code>151mb</code></p><p>【使用平台】<code>安卓</code></p><ul><li>一键去水印工具：</li></ul><p>自媒体必备、支持MD5修改、视频音频提取、压缩、视频相机以及去水印等诸多使用工具！</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr007.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><strong><code>获取方式:</code></strong> </p><p style="text-align: center;" align="center">    <strong><span style="font-size:16px;">扫描下方小程序,观看广告后即可 获取下载链接</span></strong></p><p style="padding: 12px;text-align:center;"  align="center">    <img src="https://lm.nangesoe.cn/nangebj/xcxlm/%E5%8D%97%E9%98%81%E8%AF%B4%EF%BC%88%E6%96%87%E7%AB%A0%EF%BC%89_5.jpg" alt="" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 20px; width: 266px;vertical-align:baseline;box-sizing:border-box;" draggable="false" width="266" data-width="266px" data-ratio="1" data-w="430"/></p>]]></content>
+    <content type="html"><![CDATA[<p>【软件名称】<code>水印一键去除专家</code></p><p>【软件版本】<code>2.1.3</code></p><p>【软件大小】<code>151mb</code></p><p>【使用平台】<code>安卓</code></p><ul><li>一键去水印工具：</li></ul><p>自媒体必备、支持MD5修改、视频音频提取、压缩、视频相机以及去水印等诸多使用工具！</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr007.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><strong><code>获取方式:</code></strong> </p><p style="text-align: center;" align="center">    <strong><span style="font-size:16px;">扫描下方小程序,观看广告后即可 获取下载链接</span></strong></p><p style="padding: 12px;text-align:center;"  align="center">    <img src="https://lm.nangesoe.cn/nangebj/xcxlm/%E5%8D%97%E9%98%81%E8%AF%B4%EF%BC%88%E6%96%87%E7%AB%A0%EF%BC%89_4.jpg" alt="" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 20px; width: 266px;vertical-align:baseline;box-sizing:border-box;" draggable="false" width="266" data-width="266px" data-ratio="1" data-w="430"/></p>]]></content>
     
     
       
@@ -132,9 +80,9 @@
     <link href="http://git.nangesoe.cn/posts/dd38b8e7.html"/>
     <id>http://git.nangesoe.cn/posts/dd38b8e7.html</id>
     <published>2024-07-22T10:17:18.000Z</published>
-    <updated>2024-07-23T04:00:58.150Z</updated>
+    <updated>2024-07-28T10:23:47.851Z</updated>
     
-    <content type="html"><![CDATA[<p>监控直播录制 是一个基于React 、Ffmpeg 、Electron的直播录制软件，支持监控直播，持根据录制状态筛选，可以帮助用户简单便捷的对直播进行录制并保存为MP4格式的视频</p><p>支持YouTube、Twitch、TikTok、抖音、快手、B站、网易、花椒、微博、斗鱼、淘宝、bigo、YY、虎牙等等平台直播录制.</p><p>适配<code>Windows</code>和<code>macOS</code>平台</p><p>请根据电脑系统配置进行下载安装,如下图:</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr004.jpg" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><strong>Windows 可能会报病毒，无需理会. Mac 显示文件已损坏，在终端输入以下命令即可</strong></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo xattr -r -d com.apple.quarantine /Applications/Fideo.app</span><br></pre></td></tr></table></figure><ul><li>本文以Mac 系统为演示</li></ul><p>工具界面图:</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr006.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p>首次使用Mac 打开工具会提示软件工具损坏无法打开,在终端输入上方提供的代码,并输入锁屏密码即可</p><p>设置中文,<code>点击小齿轮按钮</code>找到中文选项</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr005.jpg" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><strong>使用方法</strong>,点击 <code>+</code>号 填入直播的地址、文件名称、下载视频的文章目录,最后点击 播放的按钮即可开始录制! 另外,如果想要监控主播是否开播,需要填写API key (用于微信推送)</p><p>API key 注册申请地址:<a href="https://xz.qqoq.net/#/index">点击跳转</a></p><p><strong><code>获取方式:</code></strong> </p><p style="text-align: center;" align="center">    <strong><span style="font-size:16px;">扫描下方小程序,观看广告后即可 获取下载链接</span></strong></p><p style="padding: 12px;text-align:center;"  align="center">    <img src="https://lm.nangesoe.cn/nangebj/xcxlm/%E5%8D%97%E9%98%81%E8%AF%B4%EF%BC%88%E6%96%87%E7%AB%A0%EF%BC%89_4.jpg" alt="" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 20px; width: 266px;vertical-align:baseline;box-sizing:border-box;" draggable="false" width="266" data-width="266px" data-ratio="1" data-w="430"/></p>]]></content>
+    <content type="html"><![CDATA[<p>监控直播录制 是一个基于React 、Ffmpeg 、Electron的直播录制软件，支持监控直播，持根据录制状态筛选，可以帮助用户简单便捷的对直播进行录制并保存为MP4格式的视频</p><p>支持YouTube、Twitch、TikTok、抖音、快手、B站、网易、花椒、微博、斗鱼、淘宝、bigo、YY、虎牙等等平台直播录制.</p><p>适配<code>Windows</code>和<code>macOS</code>平台</p><p>请根据电脑系统配置进行下载安装,如下图:</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr004.jpg" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><strong>Windows 可能会报病毒，无需理会. Mac 显示文件已损坏，在终端输入以下命令即可</strong></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo xattr -r -d com.apple.quarantine /Applications/Fideo.app</span><br></pre></td></tr></table></figure><ul><li>本文以Mac 系统为演示</li></ul><p>工具界面图:</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr006.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p>首次使用Mac 打开工具会提示软件工具损坏无法打开,在终端输入上方提供的代码,并输入锁屏密码即可</p><p>设置中文,<code>点击小齿轮按钮</code>找到中文选项</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr005.jpg" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><strong>使用方法</strong>,点击 <code>+</code>号 填入直播的地址、文件名称、下载视频的文章目录,最后点击 播放的按钮即可开始录制! 另外,如果想要监控主播是否开播,需要填写API key (用于微信推送)</p><p>API key 注册申请地址:<a href="https://xz.qqoq.net/#/index">点击跳转</a></p><p><strong><code>获取方式:</code></strong> </p><p style="text-align: center;" align="center">    <strong><span style="font-size:16px;">扫描下方小程序,观看广告后即可 获取下载链接</span></strong></p><p style="padding: 12px;text-align:center;"  align="center">    <img src="https://lm.nangesoe.cn/nangebj/xcxlm/%E5%8D%97%E9%98%81%E8%AF%B4%EF%BC%88%E6%96%87%E7%AB%A0%EF%BC%89_2.jpg" alt="" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 20px; width: 266px;vertical-align:baseline;box-sizing:border-box;" draggable="false" width="266" data-width="266px" data-ratio="1" data-w="430"/></p>]]></content>
     
     
       
@@ -157,9 +105,9 @@
     <link href="http://git.nangesoe.cn/posts/be26108e.html"/>
     <id>http://git.nangesoe.cn/posts/be26108e.html</id>
     <published>2024-07-21T07:05:01.000Z</published>
-    <updated>2024-07-21T07:42:11.414Z</updated>
+    <updated>2024-07-28T10:08:53.423Z</updated>
     
-    <content type="html"><![CDATA[<p>分享一款免费的AI 抠图工具,支持 jpg&#x2F;jpeg、png、gif、webp、bmp多种格式,无需联网就能使用</p><p>并且支持Mac和Windows系统 安装即用~</p><p>内嵌 RMBG-1.4 AI 模型，完全本地运行更安全，解锁毫秒级魔法！（实际速度因设备而易，速度均为 0.5 秒左右。）</p><p><strong>主页界面:</strong></p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wzsc001.jpg" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><ul><li><p>多种导入方式</p></li><li><p>多格式支持</p></li><li><p>自动裁剪</p></li><li><p>自动复制</p></li><li><p>批量抠图</p></li></ul><p><strong>效果图展示:</strong></p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wzsc002.jpg" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><img src="https://lm.nangesoe.cn/hexowznr/wznr003.png"></p><p><strong><code>获取方式:</code></strong> </p><p style="text-align: center;" align="center">    <strong><span style="font-size:16px;">扫描下方小程序,观看广告后即可 获取下载链接</span></strong></p><p style="padding: 12px;text-align:center;"  align="center">    <img src="https://lm.nangesoe.cn/nangebj/xcxlm/aikoutu.jpg" alt="" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 20px; width: 266px;vertical-align:baseline;box-sizing:border-box;" draggable="false" width="266" data-width="266px" data-ratio="1" data-w="430"/></p>]]></content>
+    <content type="html"><![CDATA[<p>分享一款免费的AI 抠图工具,支持 jpg&#x2F;jpeg、png、gif、webp、bmp多种格式,无需联网就能使用</p><p>并且支持Mac和Windows系统 安装即用~</p><p>内嵌 RMBG-1.4 AI 模型，完全本地运行更安全，解锁毫秒级魔法！（实际速度因设备而易，速度均为 0.5 秒左右。）</p><p><strong>主页界面:</strong></p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wzsc001.jpg" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><ul><li><p>多种导入方式</p></li><li><p>多格式支持</p></li><li><p>自动裁剪</p></li><li><p>自动复制</p></li><li><p>批量抠图</p></li></ul><p><strong>效果图展示:</strong></p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wzsc002.jpg" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><img src="https://lm.nangesoe.cn/hexowznr/wznr003.png"></p><p><strong><code>获取方式:</code></strong> </p><p style="text-align: center;" align="center">    <strong><span style="font-size:16px;">扫描下方小程序,观看广告后即可 获取下载链接</span></strong></p><p style="padding: 12px;text-align:center;"  align="center">    <img src="https://lm.nangesoe.cn/nangebj/xcxlm/%E5%8D%97%E9%98%81%E8%AF%B4%EF%BC%88%E6%96%87%E7%AB%A0%EF%BC%89_1.jpg" alt="" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 20px; width: 266px;vertical-align:baseline;box-sizing:border-box;" draggable="false" width="266" data-width="266px" data-ratio="1" data-w="430"/></p>]]></content>
     
     
       
@@ -200,32 +148,6 @@
     
     
     <category term="笔记" scheme="http://git.nangesoe.cn/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>短视频去重搬运CR视频批量剪辑软件</title>
-    <link href="http://git.nangesoe.cn/posts/6c83c64d.html"/>
-    <id>http://git.nangesoe.cn/posts/6c83c64d.html</id>
-    <published>2024-07-17T12:50:17.000Z</published>
-    <updated>2024-07-21T05:16:01.764Z</updated>
-    
-    <content type="html"><![CDATA[<p>一款实用的AI剪辑软件，它不仅功能强大，而且完全免费，可以永久使用。</p><p>这款软件特别适合短视频创作者，它提供了去重搬运和批量剪辑的功能，让视频编辑变得更加简单高效。</p><p style="padding: 6px;text-align:center;"  align="center">        <img src="https://lm.nangesoe.cn/nangebj/hexowz/dspqc.jpg" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.6038812785388128" data-w="1752"/></p><hr><p><code>CR VideoMate</code>是一款功能全面的剪辑工具，它包括但不限于以下功能：</p><ul><li><p>批量合并和分割视频</p></li><li><p>去除视频中的静音部分</p></li><li><p>提取音视频字幕</p></li><li><p>嵌入封面</p></li><li><p>自动生成字幕</p></li><li><p>画中画效果</p></li><li><p>调整视频速度</p></li><li><p>添加文本</p></li><li><p>横竖屏转换</p></li><li><p>修改分辨率</p></li><li><p>抽帧操作</p></li><li><p>动态缩放</p></li><li><p>调整码率</p></li></ul><p style="padding: 6px;text-align:center;"  align="center">        <img src="https://image.baidu.com/search/down?url=https://ww1.sinaimg.cn/large/9d9812e7gy1hrq471y3loj21hc0x21bd.jpg" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.6038812785388128" data-w="1752"/></p><p><strong><code>获取方式:</code></strong> </p><p style="text-align: center;" align="center">    <strong><span style="font-size:16px;">扫描下方小程序,观看广告后即可 获取下载链接</span></strong></p><p style="padding: 12px;text-align:center;"  align="center">    <img src="https://lm.nangesoe.cn/nangebj/xcxlm/bycq.jpg" alt="" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 20px; width: 266px;vertical-align:baseline;box-sizing:border-box;" draggable="false" width="266" data-width="266px" data-ratio="1" data-w="430"/></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;一款实用的AI剪辑软件，它不仅功能强大，而且完全免费，可以永久使用。&lt;/p&gt;
-&lt;p&gt;这款软件特别适合短视频创作者，它提供了去重搬运和批量剪辑的功能，让视频编辑变得更加简单高效。&lt;/p&gt;
-&lt;p style=&quot;padding: 6px;text-align:center;&quot;  </summary>
-      
-    
-    
-    
-    <category term="软件工具" scheme="http://git.nangesoe.cn/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
-    
-    
-    <category term="搬运剪辑" scheme="http://git.nangesoe.cn/tags/%E6%90%AC%E8%BF%90%E5%89%AA%E8%BE%91/"/>
     
   </entry>
   
@@ -307,9 +229,9 @@
     <link href="http://git.nangesoe.cn/posts/55d3b318.html"/>
     <id>http://git.nangesoe.cn/posts/55d3b318.html</id>
     <published>2024-07-13T04:03:16.000Z</published>
-    <updated>2024-07-21T05:13:03.379Z</updated>
+    <updated>2024-07-28T10:35:38.790Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a><code>介绍</code></h3><p>打开登录即<strong>永久VIP10</strong>,<strong>满速高速下载</strong>,且<strong>无需安装</strong>打开即用~YYDS</p><p>迅雷的用途应该不用过多介绍,比如需要下载某些不可描述的影片,很多站点分享出来的都是P2P（点对点）技术的文件共享形式,或者是BT磁力链接,无论那种方式都是可以实现下载到本地.迅雷它本身就是支持这种下载协议.一般来说下载不可描述的影片,最少得好几个G,通过迅雷下载最多也就几分钟的事情!</p><h3 id="演示"><a href="#演示" class="headerlink" title="演示"></a><code>演示</code></h3><p>比如,下方链接就是P2P（点对点）技术,它内容是一个 windwos 10 ARM架构的64位系统</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">ed2k://|</span><br><span class="line">&#123;% span red, file|</span><br><span class="line">SW_DVD9_Win_Pro_10_20H2.4_64ARM_ChnSimp_Pro_Ent_EDU_N_MLF_X22-52787.ISO %&#125;|</span><br><span class="line">&#123;% span yellow, 6555498496 %&#125;|</span><br><span class="line">&#123;% span green, 731744E58C549CA20AC80AC5E6AC6830 %&#125;|/</span><br></pre></td></tr></table></figure><p><strong>具体信息如下：</strong></p><ul><li><p>文件名：<span class='p red'>file|SW_DVD9_Win_Pro_10_20H2.4_64ARM_ChnSimp_Pro_Ent_EDU_N_MLF_X22-52787.ISO</span></p></li><li><p>文件大小：<span class='p yellow'>6555498496</span> 字节，约等于6.1GB。</p></li><li><p>文件哈希：<span class='p green'>731744E58C549CA20AC80AC5E6AC6830</span>，这是文件的唯一标识符，用于验证文件的完整性和真实性</p></li></ul><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/nangebj/hexowz/Pasted%20Graphic.jpg" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><strong><code>获取方式:</code></strong> </p><p style="text-align: center;" align="center">    <strong><span style="font-size:16px;">扫描下方小程序,观看广告后即可 获取下载链接</span></strong></p><p style="padding: 12px;text-align:center;"  align="center">    <img src="https://lm.nangesoe.cn/nangebj/xcxlm/xl.jpg" alt="" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 20px; width: 266px;vertical-align:baseline;box-sizing:border-box;" draggable="false" width="266" data-width="266px" data-ratio="1" data-w="430"/></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a><code>介绍</code></h3><p>打开登录即<strong>永久VIP10</strong>,<strong>满速高速下载</strong>,且<strong>无需安装</strong>打开即用~YYDS</p><p>迅雷的用途应该不用过多介绍,比如需要下载某些不可描述的影片,很多站点分享出来的都是P2P（点对点）技术的文件共享形式,或者是BT磁力链接,无论那种方式都是可以实现下载到本地.迅雷它本身就是支持这种下载协议.一般来说下载不可描述的影片,最少得好几个G,通过迅雷下载最多也就几分钟的事情!</p><h3 id="演示"><a href="#演示" class="headerlink" title="演示"></a><code>演示</code></h3><p>比如,下方链接就是P2P（点对点）技术,它内容是一个 windwos 10 ARM架构的64位系统</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">ed2k://|</span><br><span class="line">&#123;% span red, file|</span><br><span class="line">SW_DVD9_Win_Pro_10_20H2.4_64ARM_ChnSimp_Pro_Ent_EDU_N_MLF_X22-52787.ISO %&#125;|</span><br><span class="line">&#123;% span yellow, 6555498496 %&#125;|</span><br><span class="line">&#123;% span green, 731744E58C549CA20AC80AC5E6AC6830 %&#125;|/</span><br></pre></td></tr></table></figure><p><strong>具体信息如下：</strong></p><ul><li><p>文件名：<span class='p red'>file|SW_DVD9_Win_Pro_10_20H2.4_64ARM_ChnSimp_Pro_Ent_EDU_N_MLF_X22-52787.ISO</span></p></li><li><p>文件大小：<span class='p yellow'>6555498496</span> 字节，约等于6.1GB。</p></li><li><p>文件哈希：<span class='p green'>731744E58C549CA20AC80AC5E6AC6830</span>，这是文件的唯一标识符，用于验证文件的完整性和真实性</p></li></ul><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/nangebj/hexowz/Pasted%20Graphic.jpg" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><strong><code>获取方式:</code></strong> </p><p style="text-align: center;" align="center">    <strong><span style="font-size:16px;">扫描下方小程序,观看广告后即可 获取下载链接</span></strong></p><p style="padding: 12px;text-align:center;"  align="center">    <img src="https://lm.nangesoe.cn/nangebj/xcxlm/%E5%8D%97%E9%98%81%E8%AF%B4%EF%BC%88%E6%96%87%E7%AB%A0%EF%BC%89_5.jpg" alt="" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 20px; width: 266px;vertical-align:baseline;box-sizing:border-box;" draggable="false" width="266" data-width="266px" data-ratio="1" data-w="430"/></p>]]></content>
     
     
       
