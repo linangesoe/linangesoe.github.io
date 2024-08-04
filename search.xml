@@ -4,6 +4,81 @@
   
     
     <entry>
+      <title>bilibiliDown-极简纯净B站视频解析提取工具</title>
+      <link href="/posts/1c2851f2.html"/>
+      <url>/posts/1c2851f2.html</url>
+      
+        <content type="html"><![CDATA[<ul><li><strong>介绍</strong></li></ul><p>bilibiliDown是一款免费极简纯净B站视频解析提取工具，可一键解析单视频、合集、分集、封面、srt字幕、xml弹幕、ass弹幕、视频下载链接，帮助你轻松将bilibili视频下载到本地电脑或手机相册，工具是一个前后端分离的项目，使用spring boot代理b站官方接口，配合前端页面完成b站视频的下载，而且支持Windows软件版本。<br>在线版</p><p><code>在线地址</code>：<a href="http://zhouql.vip/bilibili/">点击打开</a></p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0020.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><code>软件版PC版</code></p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0021.webp" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><strong><code>获取方式:</code></strong> </p><p style="text-align: center;" align="center">    <strong><span style="font-size:16px;">扫描下方小程序,观看广告后即可 获取下载链接</span></strong></p><p style="padding: 12px;text-align:center;"  align="center">    <img src="https://lm.nangesoe.cn/nangebj/xcxlm/%E5%8D%97%E9%98%81%E8%AF%B4%EF%BC%88%E6%96%87%E7%AB%A0%EF%BC%89_12.jpg" alt="" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 20px; width: 266px;vertical-align:baseline;box-sizing:border-box;" draggable="false" width="266" data-width="266px" data-ratio="1" data-w="430"/></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 小红书采集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>XHS Spider-小红书数据采集工具（批量下载、视频提取、图片去水印）</title>
+      <link href="/posts/41fb9e97.html"/>
+      <url>/posts/41fb9e97.html</url>
+      
+        <content type="html"><![CDATA[<p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/nangebj/xcx_bizhi/2/WechatIMG862.jpg" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><ul><li><strong>介绍</strong><br>是一款免费颜值超高的小红书数据采集工具，支持小红书笔记批量下载、视频提取、图片去水印，而且使用比较简单，只需要复制笔记链接或者用户主页链接即可，能够批量解析下载个人收藏的笔记或者其他用户主页笔记、收藏，解析下载的笔记也按照文件夹打包，非常整齐。</li></ul><p>XHS-Spider依托于.Net 6.0开发完成，你需要安装.Net 6.0运行时才能运行它，第一次安装运行时有提醒，HS-Spider目前仅支持windows操作系统，其他操作系统不支持。工具仅用于学习使用，学习webview2、wpf-ui用。</p><ul><li>小红书数据采集工具界面截图</li></ul><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0022.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><ul><li>小红书数据采集工具主页</li></ul><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0022.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><ul><li>小红书数据采集工具解析界面</li></ul><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0024.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><ul><li>小红书数据采集工具笔记下载</li></ul><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0025.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><strong><code>获取方式:</code></strong> </p><p style="text-align: center;" align="center">    <strong><span style="font-size:16px;">扫描下方小程序,观看广告后即可 获取下载链接</span></strong></p><p style="padding: 12px;text-align:center;"  align="center">    <img src="https://lm.nangesoe.cn/nangebj/xcxlm/%E5%8D%97%E9%98%81%E8%AF%B4%EF%BC%88%E6%96%87%E7%AB%A0%EF%BC%89_11.jpg" alt="" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 20px; width: 266px;vertical-align:baseline;box-sizing:border-box;" draggable="false" width="266" data-width="266px" data-ratio="1" data-w="430"/></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 小红书采集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>IDM 超级实用的一款下载工具,下载网页资源全靠它</title>
+      <link href="/posts/9fa5b2b7.html"/>
+      <url>/posts/9fa5b2b7.html</url>
+      
+        <content type="html"><![CDATA[<p>IDM 是一款全能的下载工具,它支持很多种格式的文件下载,不做详细介绍.一般此工具是支持 30天免费试用的,但如果想一直长期免费试用下去,可以通过特殊方法把它冻结锁定,也就是一直免费试用,就算按照正常模式来我们跟随官方同步更新,它也是一直是试用的状态,以此来达到一直免费一直白嫖~</p><p><code>界面图</code></p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0027.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p>首先去官方下载一个最新的IDM 工具,附下方下载处,安装到自己的 电脑中即可</p><p><strong>IDM官方地址</strong> :<a href="https://www.internetdownloadmanager.com/">https://www.internetdownloadmanager.com</a></p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0026.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p>其次,在安装一个 <strong>激活工具</strong>,附下方地址</p><p><strong>IDM 激活脚本</strong>: <a href="https://github.com/lstprjct/IDM-Activation-Script">IDM-Activation-Script</a></p><ul><li><strong>整体操作流程:</strong></li></ul><p>首次下载出来是一个zip的压缩包,解压出来即可,打开激活工具包 找到名为<strong>IAS.cmd</strong> 的文件,双击运行 并按照屏幕上的说明进行操作,即可激活,演示图如下</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0029.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p>之后会跳出另外的一个弹窗,按键盘上数字<strong>1</strong>  接着在按数字 <strong>9</strong> 回车,它会自动下载几个文件,表示激活成功~</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0030.jpg" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0031.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p>打开idm 软件 找到注册 显示此软件已注册,那么表示已经激活成功啦!</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0033.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p>至于软件怎么使用,那就得自行摸索了,这里只做简单介绍,<strong>点击 任务 粘贴 链接</strong>,就可以了.如果想下载某网站的视频,可是没有视频链接,那么可以复制该网站的地址,到站点抓去的选项, 想下那个就下谁.</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0028.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p>另外一种方法就是在你的浏览器安装 <strong>idm 插件</strong>,比如 谷歌浏览器、edge浏览器,都支持安装 idm 的浏览器插件,如何下载安装插件?</p><p>Idm 插件 安装<br><strong>edge 浏览器</strong>: <a href="https://microsoftedge.microsoft.com/addons/detail/idm-integration-module/llbjbkhnmlidjebalopleeepgdfgcpec">IDM Integration Module - Microsoft Edge Addons</a></p><p><strong>谷歌浏览器</strong>: <a href="https://chromewebstore.google.com/detail/idm-download-manager-inte/dogmajiofpgnnmjbdbcnbgfcebjhmmcd?hl=zh-CN&utm_source=ext_sidebar">点击下载</a></p><p>这里 以 edge 浏览器为列, 比如我要下载 某个视频,方法如下图,鼠标右键以及视频右上角,都是显示idm 插件工具的选项,无论哪种方式都可以,随意点击一种方式都会跳转打开idm 软件工具界面,直接下载即可~</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0035.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> IDM下载 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>爱回收笔记本质检系统 v1.3 绿色版</title>
       <link href="/posts/d4914f6.html"/>
       <url>/posts/d4914f6.html</url>
