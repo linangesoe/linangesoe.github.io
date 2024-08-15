@@ -6,7 +6,7 @@
   <link href="http://git.nangesoe.cn/atom.xml" rel="self"/>
   
   <link href="http://git.nangesoe.cn/"/>
-  <updated>2024-08-14T07:03:08.474Z</updated>
+  <updated>2024-08-15T06:47:46.953Z</updated>
   <id>http://git.nangesoe.cn/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Bilibili 视频解析下载工具，简洁易用</title>
+    <link href="http://git.nangesoe.cn/posts/98085d4a.html"/>
+    <id>http://git.nangesoe.cn/posts/98085d4a.html</id>
+    <published>2024-08-15T06:24:48.000Z</published>
+    <updated>2024-08-15T06:47:46.953Z</updated>
+    
+    <content type="html"><![CDATA[<p>一款免费使用的哔哩哔哩视频下载解析工具,支持最高分辨率下载“<strong>简洁易用</strong>”~</p><p><code>工具界面图:</code></p><p style="text-align:center;"  align="center">            <img src="https://lm.nangesoe.cn/hexowznr/wznr0074.png" alt="" style="-webkit-box-reflect: below 0px -webkit-gradient(linear, 0% 0%, 0% 100%, from(transparent), color-stop(0.7, transparent), to(rgba(250, 250, 250, 0.298))); border-radius: 20px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.7971334068357222" data-w="907"/></p><p><code>使用方法:</code></p><p>双击安装工具到指定文件夹,再到指定文件夹查看分别会多出俩个执行文件,ffmpeg(无需启动此文件)、<strong>bilidown(启动bilidown即可)</strong></p><p>一、启动之后弹出终端界面,有两种方式进行解析,数字<strong>1、2</strong> 选项~</p><ul><li><p>数字 1 可以下载<strong>高分辨视频</strong>,须登录哔哩哔哩,以及电脑必须安装 谷歌浏览器 (推荐使用)</p></li><li><p>数字 2 可以直接启动,但是只能下载<strong>低分辨率视频</strong>(不推荐使用)</p></li></ul><p>二、以下载高分辨率解析为列</p><ul><li><p>1、输入数字 1 回车,自动启动谷歌浏览器 跳转到哔哩哔哩登录界面,登录即可</p></li><li><p>2、粘贴需要下载的bilbil 视频链接到工具中 并回车</p></li><li><p>3、解析之后 会跳出很多选择项, 根据 数字编号选择,如上边的界面图一样,比如下载8k 的视频,那么 输入数字 1 即可</p></li></ul><p><code>提示:</code> 下载的视频文件会存放在 安装目录的 <code>download</code>  文件夹中</p><p><code>工具下载地址</code></p><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://mp.weixin.qq.com/s/m3JkN4oW6cJss4GlDUtXvA">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://lm.nangesoe.cn/link/123%20.png)">          <i class="anzhiyufont anzhiyu-icon-link" style="display: none"></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">Bilibili 视频解析下载工具，简洁易用</div>            <div class="tag-link-sitename"> </div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;一款免费使用的哔哩哔哩视频下载解析工具,支持最高分辨率下载“&lt;strong&gt;简洁易用&lt;/strong&gt;”~&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;工具界面图:&lt;/code&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;  align=&quot;center&quot;&gt;
+     </summary>
+      
+    
+    
+    
+    <category term="软件工具" scheme="http://git.nangesoe.cn/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="Bilibili" scheme="http://git.nangesoe.cn/tags/Bilibili/"/>
+    
+  </entry>
   
   <entry>
     <title>「多平台」微信公众号文章批量下载工具</title>
