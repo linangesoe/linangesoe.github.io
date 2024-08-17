@@ -6,7 +6,7 @@
   <link href="http://git.nangesoe.cn/atom.xml" rel="self"/>
   
   <link href="http://git.nangesoe.cn/"/>
-  <updated>2024-08-15T10:20:07.396Z</updated>
+  <updated>2024-08-17T09:04:56.269Z</updated>
   <id>http://git.nangesoe.cn/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>测试</title>
+    <link href="http://git.nangesoe.cn/posts/9daba997.html"/>
+    <id>http://git.nangesoe.cn/posts/9daba997.html</id>
+    <published>2024-08-15T16:17:31.000Z</published>
+    <updated>2024-08-17T09:04:56.269Z</updated>
+    
+    <content type="html"><![CDATA[<meta name=referrer content=no-referrer><div class="video"><video controls preload><source src='https://huggingface.co/datasets/linan668/fliste/resolve/main/%E3%80%904K%E3%80%91%E2%9C%94CLC%20-%20ME(%E7%BE%8E)%2019.06.11%20-%204K%E8%B6%85%E9%AB%98%E6%B8%85%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA%20-%20%E8%A5%BF%E7%93%9C%E8%A7%86%E9%A2%91.mp4' type='video/mp4'>Your browser does not support the video tag.</video></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;meta name=referrer content=no-referrer&gt;
+
+&lt;div class=&quot;video&quot;&gt;&lt;video controls preload&gt;&lt;source src=&#39;https://huggingface.co/datasets/linan668/f</summary>
+      
+    
+    
+    
+    <category term="软件工具" scheme="http://git.nangesoe.cn/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="公众号" scheme="http://git.nangesoe.cn/tags/%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
+    
+  </entry>
+  
+  <entry>
     <title>抖音批量下载工具 一键下载点赞收藏、指定用户视频</title>
     <link href="http://git.nangesoe.cn/posts/d226b031.html"/>
     <id>http://git.nangesoe.cn/posts/d226b031.html</id>
     <published>2024-08-15T09:20:30.000Z</published>
-    <updated>2024-08-15T10:20:07.396Z</updated>
+    <updated>2024-08-15T11:16:22.617Z</updated>
     
     <content type="html"><![CDATA[<meta name=referrer content=no-referrer><p><code>介绍</code></p><p>一个好用抖音批量下载插件,仅需把插件安装到浏览器即可使用,简单快捷方便,支持抖音批量下载，适用于浏览器扩展，可以将你在抖音的所有点赞、或所有收藏、或指定作者的所有作品导出为mp4格式保存,关键还是免费的~只要你的电脑有安装 edge浏览器,那么就能使用这个抖音批量下载工具.</p><p><code>使用教程</code></p><p>点击 edge浏览器 右上角显示插件小图标,即可进网页版抖音,登录自己的抖音账号,即可看到左边侧边栏如下图显示的界面,该插件 <strong>提供三种模式下载</strong>, 点赞、收藏、关注,都可以批量无水印下载解析</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0075.jpg" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p>比如下载已关注博主主页所有视频 , 可根据上方图片箭头点击第三选项,会让你选择需要保存在那个文件夹中,请自行在电脑中新建文件设定~</p><p>选择之后插件会自动扫描(<strong>已关注的博主总数</strong>)你可以指定选择多个博主主页视频解析下载,接着再次扫描博主主页视频公开的视频总数,最后插件会自动下载到指定保存的目录中(<strong>此目录不管是之后下载点赞、收藏、关注都可以使用这一个目录保存</strong>)</p><p>(<strong>本地库.html</strong>)是属于一个<strong>网页预览文件</strong>,可以直接使用浏览器直接打开 html 文件中查看已经下载的视频文件~</p><p> (<strong>data</strong>) 文件夹 是存放已下载的<strong>本地视频文件</strong>,以及一些封面或头像图片</p><p><code>如下图:</code></p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0076.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><code>演示操作视频</code></p><div class="video"><video controls preload><source src='https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20240815/16160775d3gTv9dkXNYBsb5Yzk.mp4' type='video/mp4'>Your browser does not support the video tag.</video></div><hr><p><code>插件链接地址</code></p><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://microsoftedge.microsoft.com/addons/detail/%E6%8A%96%E7%8F%8D%E8%97%8F-%E4%B8%8B%E8%BD%BD%E5%A4%87%E4%BB%BD%E4%BD%A0%E7%88%B1%E8%BF%87%E7%9A%84%E6%89%80%E6%9C%89%E6%8A%96%E9%9F%B3/kaepaapgaokpobjhamjjekinijbcoihe">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://lm.nangesoe.cn/link/flowus.png)">          <i class="anzhiyufont anzhiyu-icon-link" style="display: none"></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">抖珍藏插件批量下载</div>            <div class="tag-link-sitename"> 一个好用抖音批量下载插件仅需把插件安装到浏览器即可使用简单快捷方便</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div>]]></content>
     
