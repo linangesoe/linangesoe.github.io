@@ -229,31 +229,6 @@
     
     
     <entry>
-      <title>FList 一个简洁的在线文件列表</title>
-      <link href="/posts/ec94f434.html"/>
-      <url>/posts/ec94f434.html</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>FList 静态页面生成，无需数据库，无需服务器,将 GitHub Releases、Hugging Face Datasets、Gitee 发行版、文件 URL，渲染成类似网盘的文件列表显示在网页上，方便用户下载开源软件。支持视频、音频、图片、PDF 等文件的在线预览。</p></blockquote><p>「自用」在线地址: <a href="https://f-list-self.vercel.app/">https://f-list-self.vercel.app</a> (<strong>访问需要魔法</strong>)</p><p>「自用」在线地址: <a href="https://flist.nangesoe.cn/">https://flist.nangesoe.cn</a>(<strong>访问内容需要魔法</strong>)</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0045.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><strong>主页界面:</strong></p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0046.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><strong>部署教程</strong></p><p>GitHub开源 仓库地址: <a href="https://github.com/jianjianai/FList">https://github.com/jianjianai/FList</a></p><p>部署教程: <a href="https://jjaw.cn/2024/8/3/flist-fast-start/">https://jjaw.cn/2024/8/3/flist-fast-start/</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> FList </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 开源工具 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>在线社交媒体分享截图美化工具</title>
       <link href="/posts/965f8c82.html"/>
       <url>/posts/965f8c82.html</url>
@@ -296,31 +271,6 @@
         <tags>
             
             <tag> 刷机工具 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>韩国主播视频学习资源</title>
-      <link href="/posts/d69db4a6.html"/>
-      <url>/posts/d69db4a6.html</url>
-      
-        <content type="html"><![CDATA[<p>一个在线私人网盘，收录整理了一些JinriCP pandaTv 韩国主播视频学习资源，而且非常丰富，可以直接打开网站就能观看学习，而且带字幕的，适合晚上韩语语言学习。</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0037.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0038.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><code>链接地址</code></p><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://flowus.cn/share/f725d874-f084-4da2-a01e-f069df4ea721?code=FNFB8C">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://lm.nangesoe.cn/link/flowus.png)">          <i class="anzhiyufont anzhiyu-icon-link" style="display: none"></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">韩国主播视频学习资源</div>            <div class="tag-link-sitename"> 直接打开网站就能观看学习，而且带字幕的，适合晚上韩语语言学习。</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div>]]></content>
-      
-      
-      <categories>
-          
-          <category> 其他 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 趣站 </tag>
             
         </tags>
       

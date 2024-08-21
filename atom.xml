@@ -252,31 +252,6 @@
   </entry>
   
   <entry>
-    <title>FList 一个简洁的在线文件列表</title>
-    <link href="http://git.nangesoe.cn/posts/ec94f434.html"/>
-    <id>http://git.nangesoe.cn/posts/ec94f434.html</id>
-    <published>2024-08-09T04:09:11.000Z</published>
-    <updated>2024-08-09T04:19:35.073Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>FList 静态页面生成，无需数据库，无需服务器,将 GitHub Releases、Hugging Face Datasets、Gitee 发行版、文件 URL，渲染成类似网盘的文件列表显示在网页上，方便用户下载开源软件。支持视频、音频、图片、PDF 等文件的在线预览。</p></blockquote><p>「自用」在线地址: <a href="https://f-list-self.vercel.app/">https://f-list-self.vercel.app</a> (<strong>访问需要魔法</strong>)</p><p>「自用」在线地址: <a href="https://flist.nangesoe.cn/">https://flist.nangesoe.cn</a>(<strong>访问内容需要魔法</strong>)</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0045.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><strong>主页界面:</strong></p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0046.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><strong>部署教程</strong></p><p>GitHub开源 仓库地址: <a href="https://github.com/jianjianai/FList">https://github.com/jianjianai/FList</a></p><p>部署教程: <a href="https://jjaw.cn/2024/8/3/flist-fast-start/">https://jjaw.cn/2024/8/3/flist-fast-start/</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;FList 静态页面生成，无需数据库，无需服务器,将 GitHub Releases、Hugging Face Datasets、Gitee 发行版、文件 URL，渲染成类似网盘的文件列表显示在网页上，方便用户下载开源软件。支持视频、音频、图片、P</summary>
-      
-    
-    
-    
-    <category term="FList" scheme="http://git.nangesoe.cn/categories/FList/"/>
-    
-    
-    <category term="开源工具" scheme="http://git.nangesoe.cn/tags/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
     <title>在线社交媒体分享截图美化工具</title>
     <link href="http://git.nangesoe.cn/posts/965f8c82.html"/>
     <id>http://git.nangesoe.cn/posts/965f8c82.html</id>
@@ -324,31 +299,6 @@
     
     
     <category term="刷机工具" scheme="http://git.nangesoe.cn/tags/%E5%88%B7%E6%9C%BA%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>韩国主播视频学习资源</title>
-    <link href="http://git.nangesoe.cn/posts/d69db4a6.html"/>
-    <id>http://git.nangesoe.cn/posts/d69db4a6.html</id>
-    <published>2024-08-05T07:44:05.000Z</published>
-    <updated>2024-08-05T14:01:24.679Z</updated>
-    
-    <content type="html"><![CDATA[<p>一个在线私人网盘，收录整理了一些JinriCP pandaTv 韩国主播视频学习资源，而且非常丰富，可以直接打开网站就能观看学习，而且带字幕的，适合晚上韩语语言学习。</p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0037.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr0038.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><code>链接地址</code></p><div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://flowus.cn/share/f725d874-f084-4da2-a01e-f069df4ea721?code=FNFB8C">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://lm.nangesoe.cn/link/flowus.png)">          <i class="anzhiyufont anzhiyu-icon-link" style="display: none"></i>        </div>        <div class="tag-link-right">            <div class="tag-link-title">韩国主播视频学习资源</div>            <div class="tag-link-sitename"> 直接打开网站就能观看学习，而且带字幕的，适合晚上韩语语言学习。</div>        </div>        <i class="anzhiyufont anzhiyu-icon-angle-right"></i>    </div>    </a></div>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;一个在线私人网盘，收录整理了一些JinriCP pandaTv 韩国主播视频学习资源，而且非常丰富，可以直接打开网站就能观看学习，而且带字幕的，适合晚上韩语语言学习。&lt;/p&gt;
-&lt;p style=&quot;text-align: center; padding: 6px;&quot;  ali</summary>
-      
-    
-    
-    
-    <category term="其他" scheme="http://git.nangesoe.cn/categories/%E5%85%B6%E4%BB%96/"/>
-    
-    
-    <category term="趣站" scheme="http://git.nangesoe.cn/tags/%E8%B6%A3%E7%AB%99/"/>
     
   </entry>
   
