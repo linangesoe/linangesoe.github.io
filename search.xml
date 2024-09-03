@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>「搞定设计」无需插件免费去水印方法</title>
+      <link href="/posts/bd9b33f5.html"/>
+      <url>/posts/bd9b33f5.html</url>
+      
+        <content type="html"><![CDATA[<meta name=referrer content=no-referrer><p>搞定设计是一个很好用的平台,小编也经常用它制作公众号封面、博客封面, 编辑图片、制作封面、功能算是比较好用,但是多数图片内容都是带水印,如果需要去掉水印,那就得开会员才行!</p><p><strong>下图一(未去水印)<strong>、</strong>图二(已去除水印)</strong>,仔细看图片中的箭头内容,有所不同! 其就是本文介绍的重点内容啦!</p><table width="100%">    <tbody>        <tr class="firstRow">            <td class="">                <p style="padding: 12px;" >                    <img src="https://lm.nangesoe.cn/hexowznr/wznr00121.png" style="box-shadow: rgb(151, 152, 153) 0px 0px 10px; border: 1px solid rgb(151, 152, 153); border-radius: 10px;vertical-align:baseline;" data-ratio="2.2222222222222223" data-w="864"/>                </p>            </td>            <td draggable="true">                <p style="padding: 12px;">                    <img src="https://lm.nangesoe.cn/hexowznr/wznr00122.png" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 10px;vertical-align:baseline;" data-ratio="2.2222222222222223" data-w="864"/>                </p>            </td>        </tr>    </tbody></table><p>作为一个白嫖党,本篇文章内容主要教你如何免费去除水印,等于“<strong>白嫖</strong>”! 方法很简单一行代码就能实现, 上方图片二中其实就已经说明一切, 通过浏览器的开发工具添加“<strong>屏蔽网络请求</strong>”, 再添加一条屏蔽的代码并勾选屏蔽的选项, 最后刷新浏览器即可看到水印已经不见咯! 已去除水印的图片如何保存, 只能最原始方法“<strong>截图</strong>”!</p><p><code>演示视频:</code><br>演示视频中使用谷歌浏览器, 因每个浏览器的选项位置不同, 尽量选择同类型浏览器</p><div class="video"><video controls preload><source src='https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20240903/16160775nXMW5ixc5PfKFTQyGH.mp4' type='video/mp4'>Your browser does not support the video tag.</video></div><hr><p><code>视频中使用到的代码: </code></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">blob:https://www.gaoding.com/*-*-*-*-*</span><br></pre></td></tr></table></figure><hr><p><strong><code>更多内容请关注公众号: 南说盟</code></strong> </p><div class="img-wrap"><div class="img-bg"><img class="img" src="https://lm.nangesoe.cn/link/%E5%8D%97%E8%AF%B4%E7%9B%9Fgzh.png" style="width:600px;"/></div></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 其他 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 搞定设计 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>抖音快手直播间在线同款小游戏</title>
       <link href="/posts/c5cf9577.html"/>
       <url>/posts/c5cf9577.html</url>
@@ -13,14 +38,14 @@
       
       <categories>
           
-          <category> 黑神话·悟空 </category>
+          <category> 其他 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 修改器 </tag>
+            <tag> 小游戏 </tag>
             
         </tags>
       
