@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>「搞定设计」无需插件免费去水印方法</title>
+      <title>「搞定设计」无需插件免费去水印方法-南盟笔记</title>
       <link href="/posts/bd9b33f5.html"/>
       <url>/posts/bd9b33f5.html</url>
       
-        <content type="html"><![CDATA[<meta name=referrer content=no-referrer><p>搞定设计是一个很好用的平台,小编也经常用它制作公众号封面、博客封面, 编辑图片、制作封面、功能算是比较好用,但是多数图片内容都是带水印,如果需要去掉水印,那就得开会员才行!</p><p><strong>下图一(未去水印)<strong>、</strong>图二(已去除水印)</strong>,仔细看图片中的箭头内容,有所不同! 其就是本文介绍的重点内容啦!</p><table width="100%">    <tbody>        <tr class="firstRow">            <td class="">                <p style="padding: 12px;" >                    <img src="https://lm.nangesoe.cn/hexowznr/wznr00121.png" style="box-shadow: rgb(151, 152, 153) 0px 0px 10px; border: 1px solid rgb(151, 152, 153); border-radius: 10px;vertical-align:baseline;" data-ratio="2.2222222222222223" data-w="864"/>                </p>            </td>            <td draggable="true">                <p style="padding: 12px;">                    <img src="https://lm.nangesoe.cn/hexowznr/wznr00122.png" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 10px;vertical-align:baseline;" data-ratio="2.2222222222222223" data-w="864"/>                </p>            </td>        </tr>    </tbody></table><p>作为一个白嫖党,本篇文章内容主要教你如何免费去除水印,等于“<strong>白嫖</strong>”! 方法很简单一行代码就能实现, 上方图片二中其实就已经说明一切, 通过浏览器的开发工具添加“<strong>屏蔽网络请求</strong>”, 再添加一条屏蔽的代码并勾选屏蔽的选项, 最后刷新浏览器即可看到水印已经不见咯! 已去除水印的图片如何保存, 只能最原始方法“<strong>截图</strong>”!</p><p><code>演示视频:</code><br>演示视频中使用谷歌浏览器, 因每个浏览器的选项位置不同, 尽量选择同类型浏览器</p><div class="video"><video controls preload><source src='https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20240903/16160775nXMW5ixc5PfKFTQyGH.mp4' type='video/mp4'>Your browser does not support the video tag.</video></div><hr><p><code>视频中使用到的代码: </code></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">blob:https://www.gaoding.com/*-*-*-*-*</span><br></pre></td></tr></table></figure><hr><p><strong><code>更多内容请关注公众号: 南说盟</code></strong> </p><div class="img-wrap"><div class="img-bg"><img class="img" src="https://lm.nangesoe.cn/link/%E5%8D%97%E8%AF%B4%E7%9B%9Fgzh.png" style="width:600px;"/></div></div>]]></content>
+        <content type="html"><![CDATA[<meta name=referrer content=no-referrer><p>搞定设计是一个很好用的平台,小编也经常用它制作公众号封面、博客封面, 编辑图片、制作封面、功能算是比较好用,但是多数图片内容都是带水印,如果需要去掉水印,那就得开会员才行!</p><p><strong>下图一(未去水印)<strong>、</strong>图二(已去除水印)</strong>,仔细看图片中的箭头内容,有所不同! 其就是本文介绍的重点内容啦!</p><p style="padding: 12px;text-align:center;" align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr00121.png" alt="" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 10px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5922222222222222" data-w="900"/></p><p style="padding: 12px;text-align:center;" align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wznr00122.png" alt="" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 10px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5922222222222222" data-w="900"/></p><p>作为一个白嫖党,本篇文章内容主要教你如何免费去除水印,等于“<strong>白嫖</strong>”! 方法很简单一行代码就能实现, 上方图片二中其实就已经说明一切, 通过浏览器的开发工具添加“<strong>屏蔽网络请求</strong>”, 再添加一条屏蔽的代码并勾选屏蔽的选项, 最后刷新浏览器即可看到水印已经不见咯! 已去除水印的图片如何保存, 只能最原始方法“<strong>截图</strong>”!</p><p><code>演示视频:</code><br>演示视频中使用谷歌浏览器, 因每个浏览器的选项位置不同, 尽量选择同类型浏览器</p><div class="video"><video controls preload><source src='https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20240903/16160775nXMW5ixc5PfKFTQyGH.mp4' type='video/mp4'>Your browser does not support the video tag.</video></div><hr><p><code>视频中使用到的代码: </code></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">blob:https://www.gaoding.com/*-*-*-*-*</span><br></pre></td></tr></table></figure><hr><p><strong><code>更多内容请关注公众号: 南说盟</code></strong> </p><div class="img-wrap"><div class="img-bg"><img class="img" src="https://lm.nangesoe.cn/link/%E5%8D%97%E8%AF%B4%E7%9B%9Fgzh.png" style="width:600px;"/></div></div>]]></content>
       
       
       <categories>
@@ -29,7 +29,7 @@
     
     
     <entry>
-      <title>抖音快手直播间在线同款小游戏</title>
+      <title>抖音快手直播间在线同款小游戏-南盟笔记</title>
       <link href="/posts/c5cf9577.html"/>
       <url>/posts/c5cf9577.html</url>
       
@@ -54,7 +54,7 @@
     
     
     <entry>
-      <title>游戏黑马！国产3A游戏 「黑神话·悟空」修改器</title>
+      <title>游戏黑马！国产3A游戏 「黑神话·悟空」修改器-南盟笔记</title>
       <link href="/posts/c70ab62.html"/>
       <url>/posts/c70ab62.html</url>
       
@@ -79,7 +79,7 @@
     
     
     <entry>
-      <title>安卓红果免费短剧解锁VIP会员版</title>
+      <title>安卓红果免费短剧解锁VIP会员版-南盟笔记</title>
       <link href="/posts/b61a0f8d.html"/>
       <url>/posts/b61a0f8d.html</url>
       
@@ -104,7 +104,7 @@
     
     
     <entry>
-      <title>多平台精准获客必备神器引流脚本</title>
+      <title>多平台精准获客必备神器引流脚本-南盟笔记</title>
       <link href="/posts/8f841a49.html"/>
       <url>/posts/8f841a49.html</url>
       
@@ -129,7 +129,7 @@
     
     
     <entry>
-      <title>「实测」最新可用闲鱼币工具助手自动完成任务</title>
+      <title>「实测」最新可用闲鱼币工具助手自动完成任务-南盟笔记</title>
       <link href="/posts/f670f036.html"/>
       <url>/posts/f670f036.html</url>
       
@@ -154,7 +154,7 @@
     
     
     <entry>
-      <title>抖音、快手、视频号专业直播录屏工具</title>
+      <title>抖音、快手、视频号专业直播录屏工具-南盟笔记</title>
       <link href="/posts/9daba997.html"/>
       <url>/posts/9daba997.html</url>
       
@@ -179,7 +179,7 @@
     
     
     <entry>
-      <title>抖音批量下载工具 一键下载点赞收藏、指定用户视频</title>
+      <title>抖音批量下载工具 一键下载点赞收藏、指定用户视频-南盟笔记</title>
       <link href="/posts/d226b031.html"/>
       <url>/posts/d226b031.html</url>
       
@@ -204,7 +204,7 @@
     
     
     <entry>
-      <title>Bilibili 视频解析下载工具，简洁易用</title>
+      <title>Bilibili 视频解析下载工具，简洁易用-南盟笔记</title>
       <link href="/posts/98085d4a.html"/>
       <url>/posts/98085d4a.html</url>
       
@@ -229,7 +229,7 @@
     
     
     <entry>
-      <title>「多平台」微信公众号文章批量下载工具</title>
+      <title>「多平台」微信公众号文章批量下载工具-南盟笔记</title>
       <link href="/posts/bd9abc51.html"/>
       <url>/posts/bd9abc51.html</url>
       
@@ -254,7 +254,7 @@
     
     
     <entry>
-      <title>无服务器搭建静态博客｜Mac 系统本地安装Hexo博客并部署到GitHub</title>
+      <title>无服务器搭建静态博客｜Mac 系统本地安装Hexo博客并部署到GitHub-南盟笔记</title>
       <link href="/posts/fc6b5872.html"/>
       <url>/posts/fc6b5872.html</url>
       
@@ -279,7 +279,7 @@
     
     
     <entry>
-      <title>在线社交媒体分享截图美化工具</title>
+      <title>在线社交媒体分享截图美化工具-南盟笔记</title>
       <link href="/posts/965f8c82.html"/>
       <url>/posts/965f8c82.html</url>
       
@@ -304,7 +304,7 @@
     
     
     <entry>
-      <title>「工具箱」专为安卓玩机发烧友而生,具备所有刷机功能</title>
+      <title>「工具箱」专为安卓玩机发烧友而生,具备所有刷机功能-南盟笔记</title>
       <link href="/posts/e5c537ae.html"/>
       <url>/posts/e5c537ae.html</url>
       
@@ -329,7 +329,7 @@
     
     
     <entry>
-      <title>解决内容创作,最新AI指令合集「指令+教程」</title>
+      <title>解决内容创作,最新AI指令合集「指令+教程」-南盟笔记</title>
       <link href="/posts/f482cf10.html"/>
       <url>/posts/f482cf10.html</url>
       
@@ -354,7 +354,7 @@
     
     
     <entry>
-      <title>bilibiliDown-极简纯净B站视频解析提取工具</title>
+      <title>bilibiliDown-极简纯净B站视频解析提取工具-南盟笔记</title>
       <link href="/posts/1c2851f2.html"/>
       <url>/posts/1c2851f2.html</url>
       
@@ -379,7 +379,7 @@
     
     
     <entry>
-      <title>XHS Spider-小红书数据采集工具（批量下载、视频提取、图片去水印）</title>
+      <title>XHS Spider-小红书数据采集工具（批量下载、视频提取、图片去水印）-南盟笔记</title>
       <link href="/posts/41fb9e97.html"/>
       <url>/posts/41fb9e97.html</url>
       
@@ -404,7 +404,7 @@
     
     
     <entry>
-      <title>IDM 超级实用的一款下载工具,下载网页资源全靠它</title>
+      <title>IDM 超级实用的一款下载工具,下载网页资源全靠它-南盟笔记</title>
       <link href="/posts/9fa5b2b7.html"/>
       <url>/posts/9fa5b2b7.html</url>
       
@@ -429,7 +429,7 @@
     
     
     <entry>
-      <title>爱回收笔记本质检系统 v1.3 绿色版</title>
+      <title>爱回收笔记本质检系统 v1.3 绿色版-南盟笔记</title>
       <link href="/posts/d4914f6.html"/>
       <url>/posts/d4914f6.html</url>
       
@@ -454,7 +454,7 @@
     
     
     <entry>
-      <title>微信公众号文章批量下载工具-WechatDownload V2</title>
+      <title>微信公众号文章批量下载工具-WechatDownload V2-南盟笔记</title>
       <link href="/posts/d6838336.html"/>
       <url>/posts/d6838336.html</url>
       
@@ -479,7 +479,7 @@
     
     
     <entry>
-      <title>响应式HTML动画博客幻灯片源码 精美设计</title>
+      <title>响应式HTML动画博客幻灯片源码 精美设计-南盟笔记</title>
       <link href="/posts/e332ae81.html"/>
       <url>/posts/e332ae81.html</url>
       
@@ -504,7 +504,7 @@
     
     
     <entry>
-      <title>付费进群PLUS版源码【不是泛滥的版本】</title>
+      <title>付费进群PLUS版源码【不是泛滥的版本】-南盟笔记</title>
       <link href="/posts/e57f1c81.html"/>
       <url>/posts/e57f1c81.html</url>
       
@@ -529,7 +529,7 @@
     
     
     <entry>
-      <title>知识付费系统小程序三端源码 开源版</title>
+      <title>知识付费系统小程序三端源码 开源版-南盟笔记</title>
       <link href="/posts/3a6b8e43.html"/>
       <url>/posts/3a6b8e43.html</url>
       
@@ -554,7 +554,7 @@
     
     
     <entry>
-      <title>三维立体旋转图片单页源码</title>
+      <title>三维立体旋转图片单页源码-南盟笔记</title>
       <link href="/posts/b690d823.html"/>
       <url>/posts/b690d823.html</url>
       
@@ -579,7 +579,7 @@
     
     
     <entry>
-      <title>简洁大气的AI人工智能问答和H5创作官网源码</title>
+      <title>简洁大气的AI人工智能问答和H5创作官网源码-南盟笔记</title>
       <link href="/posts/798bc959.html"/>
       <url>/posts/798bc959.html</url>
       
@@ -604,7 +604,7 @@
     
     
     <entry>
-      <title>超级漂亮的AI官网首页自适应源码</title>
+      <title>超级漂亮的AI官网首页自适应源码-南盟笔记</title>
       <link href="/posts/e67617d8.html"/>
       <url>/posts/e67617d8.html</url>
       
@@ -629,7 +629,7 @@
     
     
     <entry>
-      <title>单页 APP软件下载官网HTML源码</title>
+      <title>单页 APP软件下载官网HTML源码-南盟笔记</title>
       <link href="/posts/dc11c511.html"/>
       <url>/posts/dc11c511.html</url>
       
@@ -654,7 +654,7 @@
     
     
     <entry>
-      <title>网站跳转微信打开小程序接口PHP源码</title>
+      <title>网站跳转微信打开小程序接口PHP源码-南盟笔记</title>
       <link href="/posts/f8eb787a.html"/>
       <url>/posts/f8eb787a.html</url>
       
@@ -679,7 +679,7 @@
     
     
     <entry>
-      <title>知识付费升级版变现宝「小程序」独立版+前端</title>
+      <title>知识付费升级版变现宝「小程序」独立版+前端-南盟笔记</title>
       <link href="/posts/628029b7.html"/>
       <url>/posts/628029b7.html</url>
       
@@ -704,7 +704,7 @@
     
     
     <entry>
-      <title>抖音查投诉系统源码</title>
+      <title>抖音查投诉系统源码-南盟笔记</title>
       <link href="/posts/993a52ac.html"/>
       <url>/posts/993a52ac.html</url>
       
@@ -729,7 +729,7 @@
     
     
     <entry>
-      <title>2024-炫酷渐变卡片跳转html源码</title>
+      <title>2024-炫酷渐变卡片跳转html源码-南盟笔记</title>
       <link href="/posts/4d59aac2.html"/>
       <url>/posts/4d59aac2.html</url>
       
@@ -754,7 +754,7 @@
     
     
     <entry>
-      <title>某度网盘青春版网页版，不使用客户端可不限速下载资源</title>
+      <title>某度网盘青春版网页版，不使用客户端可不限速下载资源-南盟笔记</title>
       <link href="/posts/5488b72c.html"/>
       <url>/posts/5488b72c.html</url>
       
@@ -804,7 +804,7 @@
     
     
     <entry>
-      <title>「安卓软件」迅雷8.15，不限速下载，永久免费使用</title>
+      <title>「安卓软件」迅雷8.15，不限速下载，永久免费使用-南盟笔记</title>
       <link href="/posts/a5ea1bc6.html"/>
       <url>/posts/a5ea1bc6.html</url>
       
@@ -829,7 +829,7 @@
     
     
     <entry>
-      <title>自媒体创作必备，支持多种去重，解锁了永久VIP</title>
+      <title>自媒体创作必备，支持多种去重，解锁了永久VIP-南盟笔记</title>
       <link href="/posts/cbacdcf6.html"/>
       <url>/posts/cbacdcf6.html</url>
       
@@ -854,7 +854,7 @@
     
     
     <entry>
-      <title>免费多平台直播录制软件 支持监控直播</title>
+      <title>免费多平台直播录制软件 支持监控直播-南盟笔记</title>
       <link href="/posts/dd38b8e7.html"/>
       <url>/posts/dd38b8e7.html</url>
       
@@ -879,18 +879,12 @@
     
     
     <entry>
-      <title>离线AI抠图 支持Mac和Windows系统</title>
+      <title>离线AI抠图 支持Mac和Windows系统-南盟笔记</title>
       <link href="/posts/be26108e.html"/>
       <url>/posts/be26108e.html</url>
       
         <content type="html"><![CDATA[<p>分享一款免费的AI 抠图工具,支持 jpg&#x2F;jpeg、png、gif、webp、bmp多种格式,无需联网就能使用</p><p>并且支持Mac和Windows系统 安装即用~</p><p>内嵌 RMBG-1.4 AI 模型，完全本地运行更安全，解锁毫秒级魔法！（实际速度因设备而易，速度均为 0.5 秒左右。）</p><p><strong>主页界面:</strong></p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wzsc001.jpg" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><ul><li><p>多种导入方式</p></li><li><p>多格式支持</p></li><li><p>自动裁剪</p></li><li><p>自动复制</p></li><li><p>批量抠图</p></li></ul><p><strong>效果图展示:</strong></p><p style="text-align: center; padding: 6px;"  align="center">        <img src="https://lm.nangesoe.cn/hexowznr/wzsc002.jpg" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/></p><p><img src="https://lm.nangesoe.cn/hexowznr/wznr003.png"></p><p><strong><code>获取方式:</code></strong> </p><p style="text-align: center;" align="center">    <strong><span style="font-size:16px;">扫描下方小程序,观看广告后即可 获取下载链接</span></strong></p><p style="padding: 12px;text-align:center;"  align="center">    <img src="https://lm.nangesoe.cn/nangebj/xcxlm/%E5%8D%97%E9%98%81%E8%AF%B4%EF%BC%88%E6%96%87%E7%AB%A0%EF%BC%89_1.jpg" alt="" style="box-shadow: #979899 0px 0px 10px; border: 1px solid #979899; border-radius: 20px; width: 266px;vertical-align:baseline;box-sizing:border-box;" draggable="false" width="266" data-width="266px" data-ratio="1" data-w="430"/></p>]]></content>
       
-      
-      <categories>
-          
-          <category> 软件工具 </category>
-          
-      </categories>
       
       
         <tags>
@@ -904,7 +898,7 @@
     
     
     <entry>
-      <title>Hexo 博客修改「笔记」</title>
+      <title>Hexo 博客修改「笔记」-南盟笔记</title>
       <link href="/posts/22bb422d.html"/>
       <url>/posts/22bb422d.html</url>
       
@@ -929,7 +923,7 @@
     
     
     <entry>
-      <title>灵沐微信小程序丨搭建保姆级教程</title>
+      <title>灵沐微信小程序丨搭建保姆级教程-南盟笔记</title>
       <link href="/posts/be6ef961.html"/>
       <url>/posts/be6ef961.html</url>
       
@@ -954,7 +948,7 @@
     
     
     <entry>
-      <title>百度网盘不限速下载|调用官方下载渠道</title>
+      <title>百度网盘不限速下载|调用官方下载渠道-南盟笔记</title>
       <link href="/posts/3e30b192.html"/>
       <url>/posts/3e30b192.html</url>
       
@@ -979,7 +973,7 @@
     
     
     <entry>
-      <title>Hexo 博客配置评论 插件Twikoo 「记录」</title>
+      <title>Hexo 博客配置评论 插件Twikoo 「记录」-南盟笔记</title>
       <link href="/posts/bb7697f2.html"/>
       <url>/posts/bb7697f2.html</url>
       
@@ -1004,7 +998,7 @@
     
     
     <entry>
-      <title>Windows版 2024迅雷不限速 绿色款工具</title>
+      <title>Windows版 2024迅雷不限速 绿色款工具-南盟笔记</title>
       <link href="/posts/55d3b318.html"/>
       <url>/posts/55d3b318.html</url>
       
@@ -1029,7 +1023,7 @@
     
     
     <entry>
-      <title>抖音AI自动回复引流系统</title>
+      <title>抖音AI自动回复引流系统-南盟笔记</title>
       <link href="/posts/4604448b.html"/>
       <url>/posts/4604448b.html</url>
       
@@ -1054,7 +1048,7 @@
     
     
     <entry>
-      <title>追剧软件｜iOS伪装上架</title>
+      <title>追剧软件｜iOS伪装上架-南盟笔记</title>
       <link href="/posts/7958813b.html"/>
       <url>/posts/7958813b.html</url>
       
@@ -1079,7 +1073,7 @@
     
     
     <entry>
-      <title>抖音｜批量邀请达人工具</title>
+      <title>抖音｜批量邀请达人工具-南盟笔记</title>
       <link href="/posts/a3b6538b.html"/>
       <url>/posts/a3b6538b.html</url>
       
