@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>快手本地替换搬运视频 搬运技术-南盟笔记</title>
+      <link href="/posts/a81b593f.html"/>
+      <url>/posts/a81b593f.html</url>
+      
+        <content type="html"><![CDATA[<meta name=referrer content=no-referrer><p><img src="https://lm.nangesoe.cn/hexofm/01/fm015.png" alt="https://lm.nangesoe.cn/hexofm/01/fm015.png"></p><p>快手本地替换搬运视频,支持哪几种系统呢? <span class="hide-inline"><button type="button" class="hide-button" style="background-color: #FF7242;color: #fff">查看答案  </button><span class="hide-content">仅适用安卓手机端</span></span></p><p><code>必备工具:</code></p><p>应用商店自行安装(<strong>快手极速版、MT管理器</strong>)</p><ul><li><p><strong>快手极速版</strong>用于<span class='p red'>录制原始视频</span></p></li><li><p><strong>MT管理器</strong>用于<span class='p red'>替换视频</span></p></li></ul><p>MT管理器设置权限<span class='p green'>(如下图)</span><br><img src="https://lm.nangesoe.cn/hexowznr/wznr00123.png" alt="https://lm.nangesoe.cn/hexowznr/wznr00123.png"></p><p><code>详细流程:</code></p><p>1、打开快手极速版通过“<strong>摄像头随意录制</strong>”一段视频,视频时长无限制最好<span class='p red'>不低于一分钟</span>, 选择<strong>24小时瞬发</strong>, 并上传发布(<code>注意:</code> 此时发布同时需要开启手机的“<strong>飞行模式</strong>”, 目的是让此时它发布不成功) 那么发布的视频会缓存在快手极速版APP中的 <strong>.post</strong> 文件夹中(详细路径 <strong>Android&#x2F;data&#x2F;com.kuaishou.nebula&#x2F;files&#x2F;.post&#x2F;</strong>)</p><p>2、打开MT管理器, 需要的权限全部<strong>开启以及勾选显示隐藏文件夹功能</strong>, 这样才能找到快手极速版缓存的 .post 隐藏文件夹, 并<strong>替换掉已缓存的视频文件</strong>, 替换的时候需要注意<strong>名称必须保持一致</strong></p><p>3、<code>关闭</code>“<strong>飞行模式</strong>”, 再次打开快手极速版, 那么中断上传视频会自动上传(<strong>这时上传的视频其实是已经被替换掉的视频啦</strong>)</p><p>4、打开快手极速版更改视频权限为<strong>永久可见</strong>, 找到已发布的视频重新设置<strong>标题内容、封面、描述</strong>等等! </p><p>想搬运的视频更加稳定, 对视频进行加工处理去重复度, 比如 掐头去尾、镜像、背景等等!<br><code>提示:</code> 判断搬运视频是否过审核, 出现“<strong>一起拍同款</strong>”则表示视频过了审核~</p><hr><p class="p2">        <video src="https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20240905/16160775h37gRsvBSsJbj8DezZ.mp4" loop="loop" controls="controls" width="100%"></video></p><hr><p><strong><code>更多内容请关注公众号: 南说盟</code></strong> </p><div class="img-wrap"><div class="img-bg"><img class="img" src="https://lm.nangesoe.cn/link/%E5%8D%97%E8%AF%B4%E7%9B%9Fgzh.png" style="width:600px;"/></div></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 其他 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 快手搬运 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>「搞定设计」无需插件免费去水印方法-南盟笔记</title>
       <link href="/posts/bd9b33f5.html"/>
       <url>/posts/bd9b33f5.html</url>
