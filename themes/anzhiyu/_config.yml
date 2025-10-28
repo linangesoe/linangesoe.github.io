@@ -75,14 +75,14 @@ author_status:
   # 可以是任何图片，建议放表情包或者emoji图片，效果都很好，[表情包速查](https://emotion.xiaokang.me/)
   statusImg: "https://bu.dusays.com/2023/08/24/64e6ce9c507bb.png"
   skills:
-    # - 🤖️ 数码科技爱好者
-    # - 🔍 分享与热心帮助
-    # - 🏠 智能家居小能手
-    # - 🔨 设计开发一条龙
-    # - 🤝 专修交互与设计
-    # - 🏃 脚踏实地行动派
-    # - 🧱 团队小组发动机
-    # - 💢 壮汉人狠话不多
+    # - ??️ 数码科技爱好者
+    # - ?? 分享与热心帮助
+    # - ?? 智能家居小能手
+    # - ?? 设计开发一条龙
+    # - ?? 专修交互与设计
+    # - ?? 脚踏实地行动派
+    # - ?? 团队小组发动机
+    # - ?? 壮汉人狠话不多
 
 # search (搜索)
 # see https://blog.anheyu.com/posts/c27d.html#搜索系统
@@ -631,7 +631,7 @@ sidebar:
 h2Divider: false
 
 # 表格隔行变色
-table_interlaced_discoloration: false
+table_interlaced_discoloration: true
 
 # 首页双栏显示
 article_double_row: true
@@ -1062,7 +1062,7 @@ home_top:
   banner:
     tips: 网创资源
     title: Hexo_Nan Ge
-    image: https://lm.nangesoe.cn/nangebj/image.2mctsqprodu0.jpg.webp
+    image: http://nange666.test.upcdn.net/nangebj/image.2mctsqprodu0.jpg.webp
     link: https://szln.mnzmsfa.top/#/
 
 # 朋友圈配置
@@ -1117,7 +1117,7 @@ nav_music:
   id: 8152976493
   server: netease
   volume: 0.7 # 默认音量
-  all_playlist: https://y.qq.com/n/ryqq/playlist/8802438608
+  all_playlist: https://y.qq.com/n/ryqq/playlist/3797316998
 
 # 评论匿名邮箱
 visitorMail:
@@ -1136,37 +1136,37 @@ ptool:
 # 欢迎语配置
 greetingBox:
   enable: false #开启后必须配置下面的list对应的时间段，不然会出现小白条
-  default: 晚上好👋
+  default: 晚上好??
   list:
-    # - greeting: 晚安😴
+    # - greeting: 晚安??
     #   startTime: 0
     #   endTime: 5
-    # - greeting: 早上好鸭👋, 祝你一天好心情！
+    # - greeting: 早上好鸭??, 祝你一天好心情！
     #   startTime: 6
     #   endTime: 9
-    # - greeting: 上午好👋, 状态很好，鼓励一下～
+    # - greeting: 上午好??, 状态很好，鼓励一下～
     #   startTime: 10
     #   endTime: 10
     # - greeting: 11点多啦, 在坚持一下就吃饭啦～
     #   startTime: 11
     #   endTime: 11
-    # - greeting: 午安👋, 宝贝
+    # - greeting: 午安??, 宝贝
     #   startTime: 12
     #   endTime: 14
-    # - greeting: 🌈充实的一天辛苦啦！
+    # - greeting: ??充实的一天辛苦啦！
     #   startTime: 14
     #   endTime: 18
-    # - greeting: 19点喽, 奖励一顿丰盛的大餐吧🍔。
+    # - greeting: 19点喽, 奖励一顿丰盛的大餐吧??。
     #   startTime: 19
     #   endTime: 19
-    # - greeting: 晚上好👋, 在属于自己的时间好好放松😌~
+    # - greeting: 晚上好??, 在属于自己的时间好好放松??~
     #   startTime: 20
     #   endTime: 24
 
 # 文章顶部ai摘要
 post_head_ai_description:
   enable: true
-  gptName: AnZhiYu
+  gptName: NangeGpt
   mode: local # 默认模式 可选值: tianli/local
   switchBtn: false # 可以配置是否显示切换按钮 以切换tianli/local
   btnLink: https://afdian.net/item/886a79d4db6711eda42a52540025c377

@@ -2,49 +2,49 @@
   creativity_list:
     - name: Java
       color: "#fff"
-      icon: https://bu.dusays.com/2023/04/09/643293b1184e9.jpg
+      icon: http://nange666.test.upcdn.net/nangebj/xcx_zujian/%E7%BE%8A.png
     - name: Docker
       color: "#57b6e6"
-      icon: https://bu.dusays.com/2023/04/09/643293b0f0abe.png
+      icon: http://nange666.test.upcdn.net/nangebj/xcx_zujian/%E7%86%8A%E7%8C%AB.png
     - name: Photoshop
       color: "#4082c3"
-      icon: https://bu.dusays.com/2022/12/15/639aa3a5c240e.png
+      icon: http://nange666.test.upcdn.net/nangebj/xcx_zujian/%E5%A5%B6%E7%89%9B.png
     - name: Node
       color: "#333"
-      icon: https://npm.elemecdn.com/anzhiyu-blog@2.1.1/img/svg/node-logo.svg
+      icon: http://nange666.test.upcdn.net/nangebj/xcx_zujian/%E7%8C%AA.webp
     - name: Webpack
       color: "#2e3a41"
-      icon: https://bu.dusays.com/2023/04/09/643293b68026c.png
+      icon: http://nange666.test.upcdn.net/nangebj/xcx_zujian/%E5%A4%A7%E8%B1%A1.png
     - name: Pinia
       color: "#fff"
-      icon: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/pinia-logo.svg
+      icon: http://nange666.test.upcdn.net/nangebj/xcx_zujian/%E4%BC%81%E9%B9%85.png
     - name: Python
       color: "#fff"
-      icon: https://bu.dusays.com/2023/04/09/643293b1230f7.png
+      icon: http://nange666.test.upcdn.net/nangebj/xcx_zujian/%E7%BB%B5%E7%BE%8A.png
     - name: Vite
       color: "#937df7"
-      icon: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/vite-logo.svg
+      icon: http://nange666.test.upcdn.net/nangebj/xcx_zujian/5png.png
     - name: Flutter
       color: "#4499e4"
-      icon: https://bu.dusays.com/2023/04/09/643293b1055c2.png
+      icon: http://nange666.test.upcdn.net/nangebj/xcx_zujian/4png.png
     - name: Vue
       color: "#b8f0ae"
-      icon: https://bu.dusays.com/2023/04/09/643293b6788bd.png
+      icon: http://nange666.test.upcdn.net/nangebj/xcx_zujian/3.png
     - name: React
       color: "#222"
-      icon: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K
+      icon: http://nange666.test.upcdn.net/nangebj/xcx_zujian/2.png
     - name: CSS3
       color: "#2c51db"
-      icon: https://lm.nangesoe.cn/1_lingmu_zujian/3a7bb44ecb0e4424bf81ca2c3aa75bb2.png
+      icon: http://nange666.test.upcdn.net/nangebj/xcx_zujian/1.png
     - name: JS
       color: "#f7cb4f"
-      icon: https://bu.dusays.com/2023/04/09/643293b121f02.png
+      icon: http://nange666.test.upcdn.net/hexo-sucai/logo.png
     - name: HTML
       color: "#e9572b"
-      icon: https://bu.dusays.com/2022/12/15/639aa3a5c241c.png
+      icon: http://nange666.test.upcdn.net/hexo-sucai/favicon.png
     - name: Git
       color: "#df5b40"
-      icon: https://bu.dusays.com/2023/04/09/643293b10ccdd.webp
+      icon: http://nange666.test.upcdn.net/nangebj/xcx_zujian/%E9%B9%A6%E9%B9%89.png
     - name: Apifox
       color: "#e65164"
-      icon: https://bu.dusays.com/2022/11/19/6378d6458c6b6.png
+      icon: http://nange666.test.upcdn.net/%E7%BD%91%E7%AB%99%E5%9B%BE%E6%A0%87/b%E7%AB%99.png

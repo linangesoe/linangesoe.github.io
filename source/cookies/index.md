@@ -2,6 +2,7 @@
 title: Cookies
 date: 2024-07-08 21:09:20
 aside: false
+comments: false
 typ: "Cookies"
 ---
 
@@ -60,11 +61,11 @@ Cookies 提供许多功能。例如，他们可以帮助我记住你喜欢深色
 除了我提供的控件之外，你还可以选择在 Internet 浏览器中启用或禁用 Cookie。大多数互联网浏览器还允许你选择是要禁用所有 Cookie 还是仅禁用第三方 Cookie。默认情况下，大多数互联网浏览器都接受 Cookie，但这可以更改。有关详细信息，请参阅 Internet 浏览器中的帮助菜单或设备随附的文档。
 
 以下链接提供了有关如何在所有主流浏览器中控制 Cookie 的说明：
-<a href="https://support.google.com/chrome/answer/95647?hl=en">Google Chrome</a>
-<a href="https://support.apple.com/guide/safari/manage-cookies-sfri11471/mac">Safari（mac 桌面版）</a>
-<a href="https://support.apple.com/en-us/105082">Safari（移动版）</a>
-<a herf="https://support.google.com/nexus/answer/54068?visit_id=638560401143044287-2396046031&hl=en&rd=1">Android 浏览器</a>
-<a href="https://support.microsoft.com/en-us/topic/description-of-cookies-ad01aa7e-66c9-8ab2-7898-6652c100999d">IE</a>
+<em>[Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)</em>
+<rm>[Safari（mac 桌面版](https://support.apple.com/guide/safari/manage-cookies-sfri11471/mac)</rm>
+<em>[Safari（移动版）](https://support.apple.com/en-us/105082)</em>
+<em>[Android 浏览器](https://support.google.com/nexus/answer/54068?visit_id=638560401143044287-2396046031&hl=en&rd=1)</em>
+<em>[IE](https://support.microsoft.com/en-us/topic/description-of-cookies-ad01aa7e-66c9-8ab2-7898-6652c100999d)</em>
 
 如你使用其他浏览器，请参阅浏览器制造商提供的文档。
 有关 Cookies 以及如何管理 Cookies 的更多信息，请访问：

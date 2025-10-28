@@ -1,14 +1,16 @@
 ---
-title: 追剧软件｜iOS伪装上架
-date: 2024-07-06 10:51:16
-tags: 软件
-categories: iOS
-cover: https://lm.nangesoe.cn/nangebj/hexowz/anzhiyu.png
-background: "#fff"
+title: 追剧软件｜iOS伪装上架-南盟笔记
+categories: 软件工具
+tags: iOS
+cover: "http://nange666.test.upcdn.net/hexofm/01/fm010.png"
+top_group_index: 3
+main_color: '#005ffb'
 ai: 本文主要讲述啦！iOS手机如何免费下载一些伪装上架的影音软件。
+abbrlink: 7958813b
+date: 2024-07-06 10:51:16
 ---
 <p style="text-align: center; padding: 6px;"  align="center">
-		<img src="https://lm.nangesoe.cn/nangebj/hexowz/01.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/>
+		<img src="http://nange666.test.upcdn.net/nangebj/hexowz/01.png" alt="" style="border: 1px solid #979899; border-radius: 19px; padding: 5px; box-shadow: #979899 0px 0px 6px; width: 100%;vertical-align:baseline;box-sizing:border-box;max-width:100% !important;" draggable="false" data-ratio="0.5622254758418741" data-w="1366"/>
 </p>
 
 ### 速速计算（鸭梨影视)

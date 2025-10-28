@@ -1,7 +1,8 @@
 ---
-title: 斗破苍穹
+title: 文章封面
 date: 2022-10-23 15:57:51
 aside: false
 top_img: false
+comments: false
 type: "album_detail"
 ---

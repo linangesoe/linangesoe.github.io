@@ -211,7 +211,7 @@ hexo.extend.filter.register(
           content: "欢迎来看我的博客鸭~",
         },
         card_weixin: {
-          enable: true,
+          enable: false,
           face: "https://bu.dusays.com/2023/01/13/63c02edf44033.png",
           backFace: "https://bu.dusays.com/2023/05/13/645fa415e8694.png",
         },
@@ -570,10 +570,11 @@ hexo.extend.filter.register(
       },
       nav_music: {
         enable: true,
+		autoplay: true,
         console_widescreen_music: false,
-        id: 8152976493,
+        id: 2141128031,
         server: "netease",
-        all_playlist: "https://y.qq.com/n/ryqq/playlist/8802438608",
+        all_playlist: "https://y.qq.com/n/ryqq/playlist/3797316998",
       },
       visitorMail: {
         enable: true,

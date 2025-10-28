@@ -3,22 +3,37 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo_Nan Ge
-subtitle: ''
-description: ''
-keywords:
+title: 南盟笔记
+subtitle: '万物皆可白嫖'
+description: ""
+keywords: "Nan Ge"
 author: Nan Ge
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
-permalink: :year/:month/:day/:title/
+url: https://bolg.nangesoe.cn
+# permalink: :year/:month/:day/:hash.html 
+permalink: posts/:abbrlink.html  ## 此处可以自己设置
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
+## abbrlink config
+abbrlink:
+  alg: crc32      #support crc16(default) and crc32 进制
+  rep: hex        #support dec(default) and hex  算法
+  drafts: false   #(true)Process draft,(false)Do not process draft. false(default) 
+  ## Generate categories from directory-tree
+  ## depth: the max_depth of directory-tree you want to generate, should > 0
+  auto_category:
+     enable: true  #true(default)
+     depth:        #3(default)
+     over_write: false 
+  auto_title: false #enable auto title, it can auto fill the title by path
+  auto_date: false #enable auto date, it can auto fill the date by time today
+  force: false #enable force mode,in this mode, the plugin will ignore the cache, and calc the abbrlink for every post even it already had abbrlink.
 
 # Directory
 source_dir: source
@@ -28,7 +43,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: 
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -97,55 +112,40 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 
+# 主题名称
 theme: anzhiyu
-
-algolia:
-  appId: "Z7A3XW4R2I"
-  apiKey: "12db1ad54372045549ef465881c17e743"
-  adminApiKey: "40321c7c207e7f73b63a19aa24c4761b"
-  chunkSize: 5000
-  indexName: "my-hexo-blog"
-  fields:
-    - content:strip:truncate,0,500
-    - excerpt:strip
-    - gallery
-    - permalink
-    - photos
-    - slug
-    - tags
-    - title
-
-#envelope_comment
-#seehttps://akilar.top/posts/e2d3c450/
-envelope_comment:
-  enable: true #控制开关
-  custom_pic:
-    cover: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/violet.jpg #信笺头部图片
-    line: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/line.png #信笺底部图片
-    beforeimg: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/before.png # 信封前半部分
-    afterimg: https://npm.elemecdn.com/hexo-butterfly-envelope/lib/after.png # 信封后半部分
-  message: #信笺正文，多行文本，写法如下
-    - 有什么想问的？
-    - 有什么想说的？
-    - 有什么想吐槽的？
-    - 哪怕是有什么想吃的，都可以告诉我哦~
-  bottom: 自动书记人偶竭诚为您服务！ #仅支持单行文本
-  height: #1024px，信封划出的高度
-  path: #【可选】comments 的路径名称。默认为 comments，生成的页面为 comments/index.html
-  front_matter: #【可选】comments页面的 front_matter 配置
-    title: 留言板
-    comments: true
-    top_img: false
-    type: envelope
 
 # APlayer
 # https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md
 aplayer:
-  meting: true
+  meting: false
   asset_inject: false
+
+# Extensions
+# RSS订阅功能
+feed:
+    type: atom
+    path: atom.xml
+    limit: false
+
+# 本地搜索系统
+search:
+  path: search.xml
+  field: post
+  content: true
+  
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+#deploy:
+    #type: git
+    #repo: git@github.com:linangesoe/linangesoe.github.io.git
+	#repo: git@github.com:linangesoe/nangegeg.git
+    #branch: main
+
 deploy:
-    type: git
+  - type: git
     repo: git@github.com:linangesoe/linangesoe.github.io.git
+    branch: main
+  - type: git
+    repo: git@github.com:linangesoe/nangegeg.git
     branch: main

@@ -2,44 +2,57 @@ menu:
    文章:
      隧道: /archives/ || anzhiyu-icon-box-archive
      分类: /categories/ || anzhiyu-icon-shapes
-     标签: /tags/ || anzhiyu-icon-tags
-
+     标签: /tags/ || anzhiyu-icon-link
+   
    #友链:
     # 友人帐: /link/ || anzhiyu-icon-link
     # 朋友圈: /fcircle/ || anzhiyu-icon-artstation
-     
-
+	
    我的:
-     音乐馆: /music/ || anzhiyu-icon-music
+     音乐馆: /music/?id=2141128031&server=netease || anzhiyu-icon-music
    #  追番页: /bangumis/ || anzhiyu-icon-bilibili
      相册集: /album/ || anzhiyu-icon-images
-   #  小空调: /air-conditioner/ || anzhiyu-icon-fan
-     留言板: /comments/ || anzhiyu-icon-envelope
+
+     # 小空调: /air-conditioner/ || anzhiyu-icon-fan
+    # 留言板: /comments/ || anzhiyu-icon-envelope
 
    关于:
      关于本人: /about/ || anzhiyu-icon-paper-plane
      闲言碎语: /essay/ || anzhiyu-icon-lightbulb
-     随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
-    # 我的装备: /equipment/ || anzhiyu-icon-dice-d20
+     # 我的装备: /equipment/ || anzhiyu-icon-dice-d20
 	 
+   随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
 	 
-
 # nav相关配置
 nav:
   enable: true
   travelling: false
   clock: true
   menu:
+    - title: 自媒体
+      item:
+        - name: 公众号
+          link: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5Nzc2MjAwNA==&action=getalbum&album_id=3209796655865298945&scene=173&subscene=227&sessionid=1724601964&enterid=1724601966&from_msgid=2247484662&from_itemidx=1&count=3&nolastread=1#wechat_redirect
+          icon: http://nange666.test.upcdn.net/link/123%20.png
+        - name: 小程序
+          link: https://bolg.nangesoe.cn/miso/xcx
+          icon: https://res.wx.qq.com/a/wx_fed/assets/res/OTE0YTAw.png
     - title: 网页
       item:
-        - name: 资源站
+        - name: 主页导航
+          link: https://bolg.nangesoe.cn/miso/
+          icon: http://nange666.test.upcdn.net/hexo-sucai/favicon.png
+        - name: WordePress
           link: https://www.nangesoe.cn/
-          icon: https://lm.nangesoe.cn/nangebj/aa1.gif
-    - title: 项目
-      item:
-        - name: 安知鱼图床
-          link: https://image.anheyu.com/
-          icon: https://image.anheyu.com/favicon.ico
+          icon: https://www.nangesoe.cn/wp-content/uploads/2024/08/cropped-logo-1.png
+        - name: 资源部
+          link: https://szln.mnzmsfa.top/#/
+          icon: http://nange666.test.upcdn.net/link/favicon.png
+    # - title: 在线
+    #   item:
+    #     - name: 监测
+    #       link: https://stats.uptimerobot.com/2Iv7BVVeK1/
+    #       icon: https://image.anheyu.com/favicon.ico
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -52,7 +65,7 @@ mourn:
 highlight_theme: mac #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button（代码复制功能）
 highlight_lang: true # show the code language
-highlight_shrink: true # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
+highlight_shrink: false # true: 全部代码框不展开，需点击>打开 / false: 代码框展开，有>点击按钮 | none: 不显示>按钮
 highlight_height_limit: 330 # unit: px
 code_word_wrap: true
 
@@ -69,36 +82,38 @@ copy:
 # formal:
 #   name: link || icon
 social:
-   Github: https://github.com/anzhiyu-c || anzhiyu-icon-github
-   BiliBili: https://space.bilibili.com/372204786 || anzhiyu-icon-bilibili
+   Github: https://github.com/ || anzhiyu-icon-github
+   BiliBili: https://space.bilibili.com || anzhiyu-icon-bilibili
+   douyin: https://v.douyin.com/ || anzhiyu-icon-tiktok
+
 
 # 作者卡片 状态
 author_status:
   enable: true
   # 可以是任何图片，建议放表情包或者emoji图片，效果都很好，[表情包速查](https://emotion.xiaokang.me/)
-  statusImg: "https://lm.nangesoe.cn/nangebj/1.webp"
+  statusImg: "http://nange666.test.upcdn.net/nangebj/1.webp"
   skills:
-     - 🤖️ 数码科技爱好者
-     - 🔍 分享与热心帮助
-     - 🏠 智能家居小能手
-     - 🔨 设计开发一条龙
-     - 🤝 专修交互与设计
-     - 🏃 脚踏实地行动派
-     - 🧱 团队小组发动机
-     - 💢 壮汉人狠话不多
+     - ??️ 数码科技爱好者
+     - ?? 分享与热心帮助
+     - ?? 智能家居小能手
+     - ?? 设计开发一条龙
+     - ?? 专修交互与设计
+     - ?? 脚踏实地行动派
+     - ?? 团队小组发动机
+     - ?? 壮汉人狠话不多
 
 # search (搜索)
 # see https://blog.anheyu.com/posts/c27d.html#搜索系统
 # --------------------------------------
 
 # Algolia search(搜索系统1)
-algolia_search:
-  enable: true
-  hits:
-    per_page: 6
-  tags:
-    - 前端
-    - Hexo
+# algolia_search:
+#   enable: false
+#   hits:
+#     per_page: 6
+#   tags:
+    # - 前端
+    # - Hexo
 
 # Docsearch（搜索系统2）
 # Apply and Docs: see https://docsearch.algolia.com/
@@ -111,11 +126,12 @@ algolia_search:
   #indexName: # see email
   #option:
 
-# Local search（搜索系统3）
-#local_search:
-  #enable: false
-  #preload: true
-  #CDN:
+# Local search（本地搜索系统3）
+local_search:
+  enable: true
+  preload: false
+  CDN:
+
 
 # Math (数学)
 # --------------------------------------
@@ -139,12 +155,12 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: https://lm.nangesoe.cn/nangebj/aa1.gif
+favicon: http://nange666.test.upcdn.net/hexo-sucai/favicon.png
 
 # Avatar (头像)
 avatar:
-  img: https://lm.nangesoe.cn/nangebj/aa1.gif
-  effect: true
+  img: http://nange666.test.upcdn.net/nangebj/aa1.gif
+  effect: false
 
 # Disable all banner image（禁用所有横幅图像）
 disable_top_img: false
@@ -191,11 +207,11 @@ post_meta:
     categories: true # true or false 文章页是否显示分类
     tags: true # true or false 文章页是否显示标籤
     label: true # true or false 显示描述性文字
-    unread: false # true or false 文章未读功能
+    unread: true # true or false 文章未读功能
 
 # 主色调相关配置
 mainTone:
-  enable: false # true or false 文章是否启用获取图片主色调
+  enable: true # true or false 文章是否启用获取图片主色调
   mode: api # cdn/api/both cdn模式为图片url+imageAve参数获取主色调，api模式为请求API获取主色调，both模式会先请求cdn参数，无法获取的情况下将请求API获取，可以在文章内配置main_color: '#3e5658'，使用十六进制颜色，则不会请求both/cdn/api获取主色调，而是直接使用配置的颜色
   # 项目地址：https://github.com/anzhiyu-c/img2color-go
   api: https://img2color-go.vercel.app/api?img= # mode为api时可填写
@@ -249,25 +265,25 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: https://lm.nangesoe.cn/hexo-sucai/wx.jpg
+    - img: http://nange666.test.upcdn.net/hexo-sucai/wx.webp
       link:
       text: 微信
-    - img: https://lm.nangesoe.cn/hexo-sucai/zfb.jpg
+    - img: http://nange666.test.upcdn.net/hexo-sucai/zfb.webp
       link:
       text: 支付宝
 
 # Post edit
 # Easily browse and edit blog source code online.
-post_edit: # 目前仅可选择一个平台在线编辑
-  enable: false
+# post_edit: # 目前仅可选择一个平台在线编辑
+  # enable: false
   # github: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  github: false
+  # github: false
 
   # yuque: https://www.yuque.com/user-name/repo-name/
   # 示例: https://www.yuque.com/yuque/yuque/
   # 你需要在语雀文章 Front Matter 添加参数 id 并确保其唯一性（例如 “id: yuque”, “id: 01”）
-  yuque: false
+  # yuque: false
 
 # Related Articles
 related_post:
@@ -317,31 +333,31 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Valine/Waline/Twikoo/Artalk
-  use:  # Twikoo/Waline
-  text: false # Display the comment name next to the button
+  use: Twikoo # Twikoo/Waline
+  text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
   lazyload: false
-  count: false # Display comment count in post's top_img
+  count: true # Display comment count in post's top_img
   card_post_count: false # Display comment count in Home Page
 
 # valine
 # https://valine.js.org
 valine:
-  appId: Z373rP0SjxJKyKYpRxJR18YR-MdYXbMMI # leancloud application app id
-  appKey: RAblgRC2H8Iqx2RVRzTuieZ9 # leancloud application app key
+  appId:  # leancloud application app id
+  appKey:  # leancloud application app key
   pageSize: 10 # comment list page size
   avatar: mp # gravatar style https://valine.js.org/#/avatar
   lang: zh-CN # i18n: zh-CN/zh-TW/en/ja
   placeholder: 填写QQ邮箱就会使用QQ头像喔~. # valine comment input placeholder (like: Please leave your footprints)
   guest_info: nick,mail,link # valine comment header info (nick/mail/link)
-  recordIP: true # Record reviewer IP
+  recordIP: false # Record reviewer IP
   serverURLs: # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
   bg: /img/comment_bg.png # valine background
   emojiCDN: //i0.hdslb.com/bfs/emote/ # emoji CDN
-  enableQQ: true # enable the Nickname box to automatically get QQ Nickname and QQ Avatar
+  enableQQ: false # enable the Nickname box to automatically get QQ Nickname and QQ Avatar
   requiredFields: nick,mail # required fields (nick/mail)
-  visitor: true
+  visitor: false
   master:
     - xxxxx
   friends:
@@ -363,8 +379,8 @@ waline:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId:
-  region:
+  envId: https://linan.nangesoe.cn/
+  region: 
   visitor: false
   option:
 
@@ -376,39 +392,39 @@ artalk:
   visitor: false
   option:
 
-# Chat Services
+# Chat Services  在线聊天 
 # --------------------------------------
 
 # Chat Button [recommend]
 # It will create a button in the bottom right corner of website, and hide the origin button
-chat_btn: false
+# chat_btn: false
 
 # The origin chat button is displayed when scrolling up, and the button is hidden when scrolling down
-chat_hide_show: false
+# chat_hide_show: false
 
 # chatra
 # https://chatra.io/
-chatra:
-  enable: false
-  id:
+# chatra:
+  # enable: false
+  # id:
 
 # tidio
 # https://www.tidio.com/
-tidio:
-  enable: false
-  public_key:
+# tidio:
+  # enable: false
+  # public_key:
 
 # daovoice
 # http://daovoice.io/
-daovoice:
-  enable: false
-  app_id:
+# daovoice:
+  # enable: false
+  # app_id:
 
 # crisp
 # https://crisp.chat/en/
-crisp:
-  enable: false
-  website_id:
+# crisp:
+  # enable: false
+  # website_id:
 
 # Footer Settings
 # --------------------------------------
@@ -429,15 +445,9 @@ footer:
   bdageitem:
     enable: true
     list:
-      - link: https://hexo.io/ #徽标指向网站链接
+      - link: https://git.nangesoe.cn/ #徽标指向网站链接
         shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Frame-Hexo.svg #徽标API
         message: 博客框架为Hexo_v5.4.0 #徽标提示语
-      - link: https://blog.anheyu.com/
-        shields: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.9/img/Theme-AnZhiYu-2E67D3.svg
-        message: 本站使用AnZhiYu主题
-      - link: https://www.dogecloud.com/
-        shields: https://npm.elemecdn.com/anzhiyu-blog@2.2.0/img/badge/CDN-多吉云-3693F3.svg
-        message: 本站使用多吉云为静态资源提供CDN加速
       - link: https://github.com/
         shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg
         message: 本站项目由Github托管
@@ -449,58 +459,59 @@ footer:
     centerImg:
     left:
       - title: email
-        link: mailto:anzhiyu-c@qq.com
+        link: 740080298@qq.com
         icon: anzhiyu-icon-envelope
       - title: 微博
-        link: https://weibo.com/u/6378063631
+        link: https://weibo.com/
         icon: anzhiyu-icon-weibo
-      - title: facebook
-        link: https://www.facebook.com/profile.php?id=100092208016287&sk=about
-        icon: anzhiyu-icon-facebook1
+      # - title: facebook
+        # link: https://www.facebook.com/profile.php?id=100092208016287&sk=about
+        # icon: anzhiyu-icon-facebook1
       - title: RSS
         link: atom.xml
         icon: anzhiyu-icon-rss
+
     right:
       - title: Github
-        link: https://github.com/anzhiyu-c
+        link: https://github.com/linangesoe/
         icon: anzhiyu-icon-github
-      - title: Bilibili
-        link: https://space.bilibili.com/372204786
-        icon: anzhiyu-icon-bilibili
+      # - title: Bilibili
+        # link: https://space.bilibili.com/
+        # icon: anzhiyu-icon-bilibili
       - title: 抖音
-        link: https://v.douyin.com/DwCpMEy/
+        link: https://v.douyin.com/
         icon: anzhiyu-icon-tiktok
       - title: CC
         link: /copyright
         icon: anzhiyu-icon-copyright-line
   list:
-    enable: true
+    enable: false
     randomFriends: 3
     project:
-      - title: 服务
-        links:
-          - title: 51la统计
-            link: https://v6.51.la/
-          - title: 十年之约
-            link: https://www.foreverblog.cn/
-          - title: 开往
-            link: https://github.com/travellings-link/travellings
-      - title: 主题
-        links:
-          - title: 文档
-            link: /docs/
-          - title: 源码
-            link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
-          - title: 更新日志
-            link: /update/
       - title: 导航
+        links:
+          - title: 资源站
+            link: https:www.nangesoe.cn/
+          - title: 主页导航
+            link: https://gits.nangesoe.cn/
+          - title: 随便逛逛
+            link: javascript:toRandomPost()
+      # - title: 主题
+      #   links:
+      #     - title: 文档
+      #       link: /docs/
+      #     - title: 源码
+      #       link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
+      #     - title: 更新日志
+      #       link: /update/
+      - title: 服务
         links:
           - title: 即刻短文
             link: /essay/
-          - title: 友链文章
-            link: /fcircle/
-          - title: 留言板
-            link: /comments/
+          - title: 文章总览
+            link: /tags/
+          - title: 音乐馆
+            link: /music/?id=2141128031&server=netease
       - title: 协议
         links:
           - title: 隐私协议
@@ -511,17 +522,17 @@ footer:
             link: /copyright/
   footerBar:
     enable: true
-    authorLink: /
+    authorLink: /cookies
     cc:
-      enable: false
+      enable: true
       link: /copyright
     linkList:
-      - link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
-        text: 主题
-      - link: https://image.anheyu.com
-        text: 图床
+      # - link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
+      #   text: 主题
+      # - link: https://image.anheyu.com
+      #   text: 图床
       - link: https://beian.miit.gov.cn/
-        text: 湘ICP备-xxxxxxx号
+        text: 湘ICP备2023017160号-1
     subTitle:
       enable: false
       # Typewriter Effect (打字效果)
@@ -634,7 +645,7 @@ sidebar:
 h2Divider: false
 
 # 表格隔行变色
-table_interlaced_discoloration: false
+table_interlaced_discoloration: true
 
 # 首页双栏显示
 article_double_row: true
@@ -718,7 +729,7 @@ ClickShowText:
 
 # Default display mode (网站默认的显示模式)
 # light (default) / dark
-display_mode: light
+display_mode: default
 
 # Beautify (美化页面显示)
 beautify:
@@ -779,7 +790,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://lm.nangesoe.cn/nangebj/_20231209_32.png # 自定加载动画义头像
+  avatar: http://nange666.test.upcdn.net/nangebj/_20231209_32.png # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------
@@ -796,16 +807,17 @@ aside:
     category: true
   card_author:
     enable: true
-    description: <div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">这有关于<b style="color:#fff">产品、设计、开发</b>相关的问题和看法，还有<b style="color:#fff">文章翻译</b>和<b style="color:#fff">分享</b>。</div><div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">相信你可以在这里找到对你有用的<b style="color:#fff">知识</b>和<b style="color:#fff">教程</b>。</div> # 默认为站点描述
+    description: <div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">本人擅长熟悉<b style="color:#fff">Windows、Liux、iOS</b>，还有<b style="color:#fff">Mac os</b>和<b style="color:#fff">Android</b>。</div><div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">等相关系统的<b style="color:#fff">开关机流程！</b></div> # 默认为站点描述 
     name_link: /about
-
   card_announcement:
     enable: true
     content: 欢迎来看我的博客鸭~
+	
   card_weixin:
     enable: true
-    face: https://bu.dusays.com/2023/01/13/63c02edf44033.png
-    backFace: https://lm.nangesoe.cn/nangebj/wx_gzh.png
+    face: http://nange666.test.upcdn.net/link/63c02edf44033.webp
+    backFace: http://nange666.test.upcdn.net/nangebj/wx_gzh.png
+
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -976,8 +988,8 @@ icons:
 pjax:
   enable: true
   exclude:
-    # - xxxx
-    # - xxxx
+    - /music/
+    - /no-pjax/
 
 # Inject the css and script (aplayer/meting)
 aplayerInject:
@@ -1038,39 +1050,43 @@ css_prefix: true
 home_top:
   enable: true # 开关
   timemode: date #date/updated
-  title: 
-  subTitle: 
-  siteText: nangesoe.cn
+  title: 南盟笔记
+  subTitle: 万物皆可白嫖
+  siteText: git.nangesoe.cn
   category:
-    - name: 前端
-      path: /categories/前端开发/
-      shadow: var(--anzhiyu-shadow-blue)
-      class: blue
-      icon: anzhiyu-icon-dove
-    - name: 大学
-      path: /categories/大学生涯/
+    - name: NanGe·主页
+      path: https://gits.nangesoe.cn/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
-    - name: 生活
-      path: /categories/生活日常/
+    - name: 资源站
+      path: https://www.nangesoe.cn/
+      shadow: var(--anzhiyu-shadow-blue)
+      class: blue
+      icon: anzhiyu-icon-tags
+    - name: 关于
+      path: /about/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book
-  default_descr: 再怎么看我也不知道怎么描述它的啦！
+    # - name: Hexo
+    #   path: /categories/Hexo/
+    #   shadow: var(--anzhiyu-shadow-blue)
+    #   class: blue
+    #   icon: anzhiyu-icon-tags
   swiper:
-    enable: false
+    enable: false # 首页ture 不使用轮播图/false 使用轮播图
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
     tips: 网创资源
     title: Hexo_Nan Ge
-    image: https://lm.nangesoe.cn/hexo-sucai/rzry.jpeg
+    image: http://nange666.test.upcdn.net/hexo-sucai/suicai2.webp
     link: https://szln.mnzmsfa.top/#/
 
 # 朋友圈配置
 friends_vue:
-  enable: true
+  enable: false
   vue_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.1/friends/index.4f887d95.js
   apiurl: # 朋友圈后端地址
   top_tips: 使用 友链朋友圈 订阅友链最新文章
@@ -1089,10 +1105,10 @@ console:
   enable: true
 
 # 51a统计配置
-LA:
-  enable: false
-  ck:
-  LingQueMonitorID:
+# LA:
+#   enable: true
+#   ck: 3IzdgrWCcj0dIu8S
+#   LingQueMonitorID: 3IzdYRScqf4FPmNG
 
 # 标签卖萌
 diytitle:
@@ -1102,13 +1118,13 @@ diytitle:
 
 # 留言弹幕配置
 comment_barrage_config:
-  enable: false
+  enable: true
   # 同时最多显示弹幕数
   maxBarrage: 1
   # 弹幕显示间隔时间ms
   barrageTime: 4000
   # token，在控制台中获取
-  accessToken: ""
+  accessToken: "f52eeec15fa34921a585a5155c6a0dd0"
   # 博主邮箱md5值
   mailMd5: ""
 
@@ -1116,16 +1132,16 @@ comment_barrage_config:
 # https://github.com/metowolf/MetingJS
 nav_music:
   enable: true
-  console_widescreen_music: false # 宽屏状态控制台显示音乐而不是标签 enable为true 控制台依然会显示
-  id: 8152976493
+  console_widescreen_music: true # 宽屏状态控制台显示音乐而不是标签 enable为true 控制台依然会显示
+  id: 2141128031
   server: netease
-  volume: 0.7 # 默认音量
-  all_playlist: https://y.qq.com/n/ryqq/playlist/8802438608
+  volume: 0.9 # 默认音量
+  all_playlist: https://git.nangesoe.cn/music/?id=2141128031&server=netease
 
 # 评论匿名邮箱
 visitorMail:
-  enable: false
-  mail: ""
+  enable: true
+  mail: "123456@gmail.com"
 
 # ptool 文章底部工具
 ptool:
@@ -1139,37 +1155,37 @@ ptool:
 # 欢迎语配置
 greetingBox:
   enable: true #开启后必须配置下面的list对应的时间段，不然会出现小白条
-  default: 晚上好👋
+  default: 晚上好??
   list:
-    - greeting: 晚安😴
+    - greeting: 晚安??
       startTime: 0
       endTime: 5
-    - greeting: 早上好鸭👋, 祝你一天好心情！
+    - greeting: 早上好鸭??, 祝你一天好心情！
       startTime: 6
       endTime: 9
-    - greeting: 上午好👋, 状态很好，鼓励一下～
+    - greeting: 上午好??, 状态很好，鼓励一下～
       startTime: 10
       endTime: 10
     - greeting: 11点多啦, 在坚持一下就吃饭啦～
       startTime: 11
       endTime: 11
-    - greeting: 午安👋, 宝贝
+    - greeting: 午安??, 宝贝
       startTime: 12
       endTime: 14
-    - greeting: 🌈充实的一天辛苦啦！
+    - greeting: ??充实的一天辛苦啦！
       startTime: 14
       endTime: 18
-    - greeting: 19点喽, 奖励一顿丰盛的大餐吧🍔。
+    - greeting: 19点喽, 奖励一顿丰盛的大餐吧??。
       startTime: 19
       endTime: 19
-    - greeting: 晚上好👋, 在属于自己的时间好好放松😌~
+    - greeting: 晚上好??, 在属于自己的时间好好放松??~
       startTime: 20
       endTime: 24
 
 # 文章顶部ai摘要
 post_head_ai_description:
   enable: true
-  gptName: AnZhiYu
+  gptName: NanGe
   mode: local # 默认模式 可选值: tianli/local
   switchBtn: false # 可以配置是否显示切换按钮 以切换tianli/local
   btnLink: https://afdian.net/item/886a79d4db6711eda42a52540025c377
