@@ -1,0 +1,66 @@
+# 工作流名称（自定义，如“Hexo 部署：静态文件+源代码同步”）
+name: Hexo Deploy & Sync Source
+
+# 触发条件：当向源代码仓库的 main 分支推送代码时，自动执行工作流
+on:
+  push:
+    branches:
+      - main  # 你的源代码仓库主分支（通常是 main 或 master）
+
+# 定义工作任务
+jobs:
+  deploy:
+    # 运行环境：使用 Ubuntu 最新版
+    runs-on: ubuntu-latest
+    steps:
+      # 步骤 1：拉取源代码仓库的代码到 CI 环境
+      - name: Checkout Source Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 拉取完整的 Git 历史（避免 Hexo 生成文章时缺失信息）
+
+      # 步骤 2：配置 SSH 密钥（用于访问静态文件仓库和源代码仓库）
+      - name: Setup SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.HEXO_DEPLOY_SSH_KEY }}  # 后续要添加的 SSH 私钥 Secret 名称
+          known_hosts: |
+            github.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMqqnkVzrm0SdG6UOoqKLsabgH5C9okWi0dh2l9GKJl
+          # 上面的 known_hosts 是 GitHub 的固定公钥指纹，直接复制即可
+
+      # 步骤 3：配置 Git 用户名和邮箱（CI 环境默认无配置，必须添加）
+      - name: Configure Git Identity
+        run: |
+          git config --global user.name "{{ linangesoe }}"  # 替换为你的用户名（如 ）
+          git config --global user.email "{{ 740080298@qq.com }}"    # 替换为你的邮箱（如 xxx@xxx.com）
+
+      # 步骤 4：安装 Node.js（Hexo 依赖 Node 环境）
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20  # 使用 Node.js 20 版本（兼容大部分 Hexo 版本，稳定）
+          cache: 'npm'      # 缓存 npm 依赖，加速下次构建
+
+      # 步骤 5：安装 Hexo 依赖（根据 package.json 安装）
+      - name: Install Dependencies
+        run: |
+          npm install hexo-cli -g  
+		  # 全局安装 Hexo 命令行工具
+          npm install              
+		  # 安装项目本地依赖
+
+      # 步骤 6：部署静态文件到第一个仓库（如 linangesoe.github.io）
+      - name: Deploy Static Files to Pages Repo
+        run: |
+          hexo clean  
+          hexo generate  # 生成静态文件到 public 目录
+          hexo deploy    # 部署到静态文件仓库（按 _config.yml 中的配置）
+
+      # 步骤 7：同步源代码到第二个仓库（如 nangegeg，可选，不需要可删除此步骤）
+      - name: Sync Source Code to Second Repo
+        run: |
+           # 添加第二个仓库（源代码仓库）为远程地址
+          git remote add source git@github.com:{{ linangesoe }}/{{ nangegeg }}.git  
+		  # 替换为实际仓库地址（如 linangesoe/nangegeg）
+          # 推送源代码到第二个仓库的 main 分支
+          git push source main
