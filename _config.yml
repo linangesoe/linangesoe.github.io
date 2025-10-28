@@ -136,16 +136,8 @@ search:
   
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-#deploy:
-    #type: git
-    #repo: git@github.com:linangesoe/linangesoe.github.io.git
-	#repo: git@github.com:linangesoe/nangegeg.git
-    #branch: main
-
 deploy:
-  - type: git
+    type: git
     repo: git@github.com:linangesoe/linangesoe.github.io.git
     branch: main
-  - type: git
-    repo: git@github.com:linangesoe/nangegeg.git
-    branch: main
+
