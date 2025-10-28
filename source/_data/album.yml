@@ -1,0 +1,121 @@
+- class_name: 斗破苍穹
+  path_name: /wordScenery
+  type: 2
+  description: 美杜莎
+  cover: https://picture.wangkay.tech//Strapi/202406011031696.jpg
+  top_background: https://lm.nangesoe.cn/hexo-sucai/1720425066421.jpg
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2024/07/08 13:31:00
+      content: 斗破苍穹-美杜莎
+      address: 美杜莎
+      image:
+        - https://picture.wangkay.tech/Strapi/432978893_122134447190149529_8703392657152885323_n.jpg
+        - https://picture.wangkay.tech/Strapi/432787677_122134447352149529_6057605032663626768_n.jpg
+        - https://picture.wangkay.tech/Strapi/432779924_122134447334149529_5059404341609039641_n.jpg
+        - https://picture.wangkay.tech/Strapi/432774275_122134447172149529_8180654985293916584_n.jpg
+        - https://picture.wangkay.tech//Strapi/202406011031777.jpg
+        - https://picture.wangkay.tech//Strapi/202406011031696.jpg
+        - https://picture.wangkay.tech//Strapi/202406011031744.jpg
+        - https://picture.wangkay.tech//Strapi/202406011031686.jpg
+        - https://picture.wangkay.tech//Strapi/202404161620461.jpg
+        - https://picture.wangkay.tech//Strapi/202404161620470.jpg
+        - https://picture.wangkay.tech//Strapi/202404161620461.jpg
+        - https://picture.wangkay.tech//Strapi/202404161620491.jpg
+        - https://picture.wangkay.tech//Strapi/202404161620483.jpg
+        - https://picture.wangkay.tech//Strapi/202404161620477.jpg
+
+
+    - date: 2024/07/08 13:33:00
+      content: 斗破苍穹-云韵
+      address: 云韵
+      image:
+        - https://picture.wangkay.tech//Strapi/202405281017563.jpg
+        - https://picture.wangkay.tech//Strapi/202405281017652.jpg
+        - https://picture.wangkay.tech//Strapi/202405281017670.jpg
+        - https://picture.wangkay.tech//Strapi/202405281017659.jpg
+        - https://picture.wangkay.tech//Strapi/202405281017533.jpg
+
+    - date: 2024/07/08 13:34:00
+      content: 斗破苍穹-韩雪
+      address: 韩雪
+      image:
+        - https://picture.wangkay.tech//Strapi/202404270946285.jpg
+        - https://picture.wangkay.tech//Strapi/202404270946270.jpg
+        - https://picture.wangkay.tech//Strapi/202404270946262.jpg
+        - https://picture.wangkay.tech//Strapi/202404270946256.jpg
+        - https://picture.wangkay.tech//Strapi/202404270946250.jpg
+        - https://picture.wangkay.tech//Strapi/202404171002687.jpg
+        - https://picture.wangkay.tech//Strapi/202404171002697.jpg
+        - https://picture.wangkay.tech//Strapi/202404171002680.jpg
+        - https://picture.wangkay.tech//Strapi/202404171002664.jpg
+        - https://picture.wangkay.tech//Strapi/202404171002672.jpg
+
+    - date: 2024/07/08 13:37:00
+      content: 斗破苍穹-韩月
+      address: 韩月
+      image:
+        - https://picture.wangkay.tech//Strapi/202404251226361.jpg
+        - https://picture.wangkay.tech//Strapi/202404251226326.jpg
+        - https://picture.wangkay.tech//Strapi/202404251226287.jpg
+        - https://picture.wangkay.tech//Strapi/202404251226268.jpg
+        - https://picture.wangkay.tech//Strapi/202404251226241.jpg
+        - https://picture.wangkay.tech/Strapi/434645042_122136211592149529_3439877094495274203_n.jpg
+        - https://picture.wangkay.tech/Strapi/434651517_122136211712149529_8727785630085472156_n.jpg
+        - https://picture.wangkay.tech/Strapi/434662052_122136211652149529_439075736440794654_n.jpg
+        - https://picture.wangkay.tech/Strapi/434640650_122136211688149529_692628887833892179_n.jpg
+        - https://picture.wangkay.tech/Strapi/433452842_122136211622149529_4363493964604255284_n.jpg
+
+    - date: 2024/07/08 13:37:00
+      content: 斗破苍穹-小医仙
+      address: 小医仙
+      image:
+        - https://picture.wangkay.tech/Strapi/427904995_348571881490048_8235010447280884316_n.jpg
+        - https://picture.wangkay.tech/Typroa/433438292_722428946639718_1117834211028056125_n.jpg
+        - https://picture.wangkay.tech/Strapi/433431008_722428993306380_5816277187287064249_n.jpg
+        - https://picture.wangkay.tech//Strapi/202404141111476.jpg
+        - https://picture.wangkay.tech//Strapi/202404141111512.jpg
+        - https://picture.wangkay.tech//Strapi/202404141111551.jpg
+        - https://picture.wangkay.tech//Strapi/202404141111559.jpg
+
+
+			
+- class_name: 日常
+  path_name: /dailyPhoto
+  type: 1
+  description: xxxxx...
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://picture.wangkay.tech//Strapi/202406271629504.jpg
+  cover: https://picture.wangkay.tech//Strapi/202406201409455.jpg
+  album_list:
+    - date: 2024-06-24
+      content: xxxxx
+      image:
+        - https://picture.wangkay.tech//Strapi/202406271629504.jpg
+		
+- class_name: 壁纸
+  path_name: /bizi
+  type: 2
+  description: xxxx
+  cover: https://picture.wangkay.tech//Strapi/202406201409449.jpg
+  top_background: https://picture.wangkay.tech//Strapi/202406271629480.jpg
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2024/07/08 13:31:00
+      content: false
+      address: false
+      image:
+        - https://picture.wangkay.tech//Strapi/202406230928978.jpg

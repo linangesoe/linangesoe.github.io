@@ -1,0 +1,126 @@
+- class_name: 关于页面
+  subtitle: 冰冻三尺，非一日之寒，成大事者不拘小节
+  avatarImg: https://lm.nangesoe.cn/_20231209_32.png
+  # avatarSkills:
+    # left:
+      # - 🤖️ 数码科技爱好者
+      # - 🔍 分享与热心帮助
+      # - 🏠 智能家居小能手
+      # - 🔨 设计开发一条龙
+    # right:
+      # - 专修交互与设计 🤝
+      # - 脚踏实地行动派 🏃
+      # - 团队小组发动机 🧱
+      # - 壮汉人狠话不多 💢
+  name: NanGe
+  description: 擅长熟悉 Windows、Liux、Mac、Android、iOS 等系统的开关机！
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hi Diaomao
+  skillsTips: 
+    tips: 技能
+    title: 开启创造力
+  careers: 
+    tips: 生涯
+    title: 
+    list:
+    img: https://lm.nangesoe.cn/hexo-sucai/170426433974170426433973.jpg
+  map:
+    StrengthenTitle: 重庆
+    backgroundDark: https://lm.nangesoe.cn/hexo-sucai/1720431829377.jpg
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2024
+    selfInfoTips2: 专业
+    selfInfoContent2: 搬砖
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 在家放牛🐮
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 站的更高，
+    maxim_bottom: 尿得更远。
+  game:
+    game_tips: 爱好游戏
+    game_title: 王者农药
+    game_uid: "UID: 一棒子搓丝尼"
+    game_bg: https://lm.nangesoe.cn/hexo-sucai/rzry.jpeg
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: 约定的梦幻岛
+        href: https://www.bilibili.com/bangumi/media/md5267750/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://lm.nangesoe.cn/hexo-sucai/1.4.png
+      - name: 咒术回战
+        href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://lm.nangesoe.cn/hexo-sucai/1.3.png
+      - name: 紫罗兰永恒花园
+        href: https://www.bilibili.com/bangumi/media/md8892/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://lm.nangesoe.cn/hexo-sucai/1.2.png
+      - name: 鬼灭之刃
+        href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://lm.nangesoe.cn/hexo-sucai/1.1.png
+      - name: JOJO的奇妙冒险 黄金之风
+        href: https://www.bilibili.com/bangumi/media/md135652/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://lm.nangesoe.cn/hexo-sucai/1.0.png
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://lm.nangesoe.cn/hexo-sucai/1719886990903171988699022.jpg
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: DJ
+    music_bg: https://lm.nangesoe.cn/hexo-sucai/123.webp
+    music_link: /music
+  reward_list:
+    - name: kook
+      amount: 8.8
+      datatime: 2024-06-28
+    - name: 萌
+      amount: 6.6
+      datatime: 2024-07-05
+    # - name: 张时貳
+      # amount: 6.6
+      # datatime: 2023-01-22
+    # - name: ZeroAf
+      # amount: 9.9
+      # datatime: 2022-12-14
+    # - name: LuckyWangXi
+      # amount: 6.6
+      # datatime: 2022-12-14
+    # - name: 刀中日月长
+      # amount: 10
+      # datatime: 2022-11-16
+    # - name: 鹿啵包
+      # amount: 10
+      # datatime: 2022-11-08
+    # - name: 疾速k
+      # amount: 50
+      # datatime: 2022-09-20
+    # - name: 伴舟先生大霖子
+      # amount: 4.03
+      # datatime: 2022-10-27
+      # suffix: 贝壳
+    # - name: Magica_0x0
+      # amount: 3.36
+      # datatime: 2022-10-07
+      # suffix: 贝壳
+    # - name: 名字就是要短像这样
+      # amount: 3.36
+      # datatime: 2022-08-25
+      # suffix: 贝壳
+    # - name: Leviathan520
+      # amount: 1.34
+      # datatime: 2022-08-23
+      # suffix: 贝壳
+    # - name: 托马斯
+      # amount: 10
+      # datatime: 2022-08-19
